@@ -37,8 +37,11 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 * [6 ways to make your lists scroll faster than the wind](http://leftshift.io/6-ways-to-make-your-lists-scroll-faster-than-the-wind) 提升ListView滚动速度
 
 ## 常用库的使用方法
+### Retrifit
 
-* [Retrofit开发指南](https://github.com/bboyfeiyu/android-tech-frontier/tree/master/issue-7/Retrofit%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97)
+* [Retrofit开发指南](https://github.com/bboyfeiyu/android-tech-frontier/tree/master/issue-7/Retrofit%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97) 中文翻译
+* [Retrofit Android Tutorial](http://themakeinfo.com/2015/04/retrofit-android-tutorial/) 英文原版 
+* [Retrofit by Square](http://kdubblabs.com/java/retrofit-by-square/) 这篇介绍的比较详细
 
 ## 经验总结
 * [Android学习之路--stormzhang](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
