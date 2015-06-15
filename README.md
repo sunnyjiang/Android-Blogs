@@ -72,6 +72,7 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 
 ## Android开发工具
 * [推荐几个非常有用的工具](http://stormzhang.com/android/2015/05/26/android-tools/)
+* [搜索最好的 Android 代码——Android开发工具之Codota](http://www.imooc.com/article/1086)
 
 ## 经验总结
 * [Android学习之路--stormzhang](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
