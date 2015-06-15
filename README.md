@@ -6,8 +6,9 @@ Android开发相关的博客、文章、教程
 Android Developers Blog | [http://android-developers.blogspot.com/](http://android-developers.blogspot.com/) | 官方Blog
 Android Weekly | [http://androidweekly.net/](http://androidweekly.net/) | Android周刊，支持邮箱订阅，随时了解Android Dev最新前沿，每周一更新
 Android Weekly 中文版 | [http://androidweekly.cn/](http://androidweekly.cn/) | 暂时还不支持邮箱订阅，不过也值得阅读，每周一更新
+Vogella | [vogella](http://blog.vogella.com/category/android/) | Android基础教程
 Cyril Mottier | [http://cyrilmottier.com/](http://cyrilmottier.com/) | 
-Ravi Tamada | [http://www.androidhive.info/](http://www.androidhive.info/) | 博文非常基础，非常详细
+Ravi Tamada | [Androidhive](http://www.androidhive.info/) | 博文非常基础，非常详细
 [Trinea](https://github.com/Trinea) | [http://www.trinea.cn/](http://www.trinea.cn/) | 
 codekk | [http://www.codekk.com/open-source-project-analysis](http://www.codekk.com/open-source-project-analysis) | Trinea发起的Android开源项目分析
 [stormzhang](https://github.com/stormzhang) | [http://stormzhang.com/](http://stormzhang.com/) | 
