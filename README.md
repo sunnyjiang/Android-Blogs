@@ -55,6 +55,9 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 * [Android Studio系列教程五--Gradle命令详解与导入第三方包](http://stormzhang.com/devtools/2015/01/05/android-studio-tutorial5/)
 * [Android Studio系列教程六--Gradle多渠道打包](http://stormzhang.com/devtools/2015/01/15/android-studio-tutorial6/)
 
+## Hacky (小技巧)
+* [使用android.view.TouchDelegate扩大View的触摸点击区域](http://blog.csdn.net/tongcpp/article/details/23450975)
+
 ## 常用库的使用方法
 ### Retrifit
 * [Retrofit开发指南](https://github.com/bboyfeiyu/android-tech-frontier/tree/master/issue-7/Retrofit%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97) 中文翻译
