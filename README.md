@@ -62,8 +62,10 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 ### Retrifit
 * [Retrofit开发指南](https://github.com/bboyfeiyu/android-tech-frontier/tree/master/issue-7/Retrofit%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97) 中文翻译
 * [Retrofit Android Tutorial](http://themakeinfo.com/2015/04/retrofit-android-tutorial/) 英文原版 
-* [Retrofit by Square](http://kdubblabs.com/java/retrofit-by-square/) 这篇介绍的比较详细
+* [Retrofit by Square](http://kdubblabs.com/java/retrofit-by-square/) 
 * [A smart way to use Retrofit](http://blog.robinchutaux.com/blog/a-smart-way-to-use-retrofit/)
+* [Implementing an Android REST Client using Retrofit](http://inaka.net/blog/2014/10/10/android-retrofit-rest-client/)
+* [Android Retrofit Example](http://www.truiton.com/2015/04/android-retrofit-tutorial/)
 
 ## Android开发工具
 * [推荐几个非常有用的工具](http://stormzhang.com/android/2015/05/26/android-tools/)
