@@ -17,6 +17,17 @@ Square | [https://corner.squareup.com/](https://corner.squareup.com/) | 良心�
 FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/android/) | 良心企业
 
 ## 性能优化
+### Developing for Android
+* [Developing for Android, I:Understanding the Mobile Context](https://medium.com/google-developers/developing-for-android-i-understanding-the-mobile-context-fd2351b131f8)
+* [Developing for Android, II:The Rules: Memory](https://medium.com/google-developers/developing-for-android-ii-bb9a51f8c8b9)
+* [Developing for Android, III:The Rules: Performance](https://medium.com/google-developers/developing-for-android-iii-2efc140167fd)
+* [Developing for Android, IV:The Rules: Networking](https://medium.com/google-developers/developing-for-android-iv-e7dc4ce0a59)
+* [Developing for Android V:The Rules: Language and Libraries](https://medium.com/google-developers/developing-for-android-v-f6b8038b42f5)
+* [Developing for Android VI:The Rules: Storage](https://medium.com/google-developers/developing-for-android-vi-c0b1539f0e98)
+* [Developing for Android VII:The Rules: Framework](https://medium.com/google-developers/developing-for-android-vii-the-rules-framework-concerns-d0210e52eee3)
+* [Developing for Android VIII:The Rules: User Interface](https://medium.com/google-developers/developing-for-android-viii-e91ced595fac)
+* [Developing for Android IX:Tools](https://medium.com/google-developers/developing-for-android-ix-tools-375134af1098)
+
 ### 胡凯(译者)-性能优化系列
 * [Android性能优化典范](http://hukai.me/android-performance-patterns/)
 * [Android性能优化之渲染篇](http://hukai.me/android-performance-render/)
