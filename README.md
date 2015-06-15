@@ -35,6 +35,10 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 
 ### 其他
 * [6 ways to make your lists scroll faster than the wind](http://leftshift.io/6-ways-to-make-your-lists-scroll-faster-than-the-wind) 提升ListView滚动速度
+ 
+Gradle
+* [Gradle tip #1: tasks](http://trickyandroid.com/gradle-tip-1-tasks/)
+* [Gradle tip #2: understanding syntax](http://trickyandroid.com/gradle-tip-2-understanding-syntax/)
 
 ## 常用库的使用方法
 ### Retrifit
