@@ -66,6 +66,8 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 * [A smart way to use Retrofit](http://blog.robinchutaux.com/blog/a-smart-way-to-use-retrofit/)
 * [Implementing an Android REST Client using Retrofit](http://inaka.net/blog/2014/10/10/android-retrofit-rest-client/)
 * [Android Retrofit Example](http://www.truiton.com/2015/04/android-retrofit-tutorial/)
+### EventBus
+* [Quick Tip: How to Use the EventBus Library](http://code.tutsplus.com/tutorials/quick-tip-how-to-use-the-eventbus-library--cms-22694)
 
 ## Android开发工具
 * [推荐几个非常有用的工具](http://stormzhang.com/android/2015/05/26/android-tools/)
