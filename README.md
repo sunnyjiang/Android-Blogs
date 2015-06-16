@@ -70,6 +70,9 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 ### EventBus
 * [Quick Tip: How to Use the EventBus Library](http://code.tutsplus.com/tutorials/quick-tip-how-to-use-the-eventbus-library--cms-22694)
 
+### ButterKnife
+* [ButterKnife--View注入框架](http://stormzhang.com/openandroid/android/2014/01/12/android-butterknife/)
+
 ## Android开发工具
 * [推荐几个非常有用的工具](http://stormzhang.com/android/2015/05/26/android-tools/)
 * [搜索最好的 Android 代码——Android开发工具之Codota](http://www.imooc.com/article/1086)
