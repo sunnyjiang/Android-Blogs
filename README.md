@@ -58,7 +58,7 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 ## Hacky (小技巧)
 * [使用android.view.TouchDelegate扩大View的触摸点击区域](http://blog.csdn.net/tongcpp/article/details/23450975)
 
-## 常用库的使用方法
+## 常用开发框架的使用方法
 ### Retrifit
 * [Retrofit开发指南](https://github.com/bboyfeiyu/android-tech-frontier/tree/master/issue-7/Retrofit%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97) 中文翻译
 * [Retrofit Android Tutorial](http://themakeinfo.com/2015/04/retrofit-android-tutorial/) 英文原版 
@@ -72,6 +72,9 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 
 ### ButterKnife
 * [ButterKnife--View注入框架](http://stormzhang.com/openandroid/android/2014/01/12/android-butterknife/)
+
+### LeakCanary
+* [LeakCanary 中文使用说明](http://www.liaohuqiu.net/cn/posts/leak-canary-read-me/)
 
 ## Android开发工具
 * [推荐几个非常有用的工具](http://stormzhang.com/android/2015/05/26/android-tools/)
