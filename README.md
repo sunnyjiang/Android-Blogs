@@ -85,4 +85,5 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 ## 经验总结
 * [Android学习之路--stormzhang](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
 * [Top 10 Most Common Android Development Mistakes: A Programming Tutorial](http://www.toptal.com/android/top-10-most-common-android-development-mistakes)
+* [Android开源库](http://blog.daimajia.com/android-library-collection/)
 
