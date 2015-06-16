@@ -9,6 +9,7 @@ Android Weekly 中文版 | [http://androidweekly.cn/](http://androidweekly.cn/) 
 Vogella | [vogella](http://blog.vogella.com/category/android/) | Android基础教程
 Cyril Mottier | [http://cyrilmottier.com/](http://cyrilmottier.com/) | 
 Ravi Tamada | [Androidhive](http://www.androidhive.info/) | 博文非常基础，非常详细
+[liaohuqiu](https://github.com/liaohuqiu) | [http://www.liaohuqiu.net/cn/](http://www.liaohuqiu.net/cn/) |
 [Trinea](https://github.com/Trinea) | [http://www.trinea.cn/](http://www.trinea.cn/) | 
 codekk | [http://www.codekk.com/open-source-project-analysis](http://www.codekk.com/open-source-project-analysis) | Trinea发起的Android开源项目分析
 [stormzhang](https://github.com/stormzhang) | [http://stormzhang.com/](http://stormzhang.com/) | 
@@ -75,6 +76,7 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 
 ### LeakCanary
 * [LeakCanary 中文使用说明](http://www.liaohuqiu.net/cn/posts/leak-canary-read-me/)
+* [LeakCanary: 让内存泄露无所遁形](http://www.liaohuqiu.net/cn/posts/leak-canary/)
 
 ## Android开发工具
 * [推荐几个非常有用的工具](http://stormzhang.com/android/2015/05/26/android-tools/)
