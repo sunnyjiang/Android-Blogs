@@ -10,7 +10,7 @@ Vogella | [vogella](http://blog.vogella.com/category/android/) | Android基础�
 Cyril Mottier | [http://cyrilmottier.com/](http://cyrilmottier.com/) | 
 Ravi Tamada | [Androidhive](http://www.androidhive.info/) | 博文非常基础，非常详细
 [liaohuqiu](https://github.com/liaohuqiu) | [http://www.liaohuqiu.net/cn/](http://www.liaohuqiu.net/cn/) |
-[Trinea](http://www.trinea.cn/category/android/) | [http://www.trinea.cn/category/android/](http://www.trinea.cn/) | 
+[Trinea](https://github.com/Trinea/) | [http://www.trinea.cn/category/android/](http://www.trinea.cn/category/android/) | 
 codekk | [http://www.codekk.com/open-source-project-analysis](http://www.codekk.com/open-source-project-analysis) | Trinea发起的Android开源项目分析
 [stormzhang](https://github.com/stormzhang) | [http://stormzhang.com/](http://stormzhang.com/) | 
 [代码家](https://github.com/daimajia) | [http://blog.daimajia.com/](http://blog.daimajia.com/) |
