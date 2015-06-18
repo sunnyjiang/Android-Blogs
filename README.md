@@ -46,6 +46,10 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 * [ListView Tips & Tricks #4: Add Several Clickable Areas](http://cyrilmottier.com/2011/11/23/listview-tips-tricks-4-add-several-clickable-areas/)
 * [ListView Tips & Tricks #5: Enlarged Touchable Areas](http://cyrilmottier.com/2012/02/16/listview-tips-tricks-5-enlarged-touchable-areas/)
 
+### Bill Phillips - RecyclerView
+* [RecyclerView Part 1: Fundamentals For ListView Experts](https://www.bignerdranch.com/blog/recyclerview-part-1-fundamentals-for-listview-experts/)
+* [RecyclerView Part 2: Choice Modes](https://www.bignerdranch.com/blog/recyclerview-part-2-choice-modes/)
+
 ### 其他
 * [6 ways to make your lists scroll faster than the wind](http://leftshift.io/6-ways-to-make-your-lists-scroll-faster-than-the-wind) 提升ListView滚动速度
 
