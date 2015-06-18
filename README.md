@@ -66,7 +66,6 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 * [Retrofit by Square](http://kdubblabs.com/java/retrofit-by-square/) 
 * [A smart way to use Retrofit](http://blog.robinchutaux.com/blog/a-smart-way-to-use-retrofit/)
 * [Implementing an Android REST Client using Retrofit](http://inaka.net/blog/2014/10/10/android-retrofit-rest-client/)
-* [Android Retrofit Example](http://www.truiton.com/2015/04/android-retrofit-tutorial/)
 * [Retrofit — Getting Started and Create an Android Client](https://futurestud.io/blog/retrofit-getting-started-and-android-client/)
 * [How To Use Retrofit Library In Your Android App](http://simpledeveloper.com/how-to-use-retrofit-library-in-android/)
 
