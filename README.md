@@ -48,6 +48,9 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 
 ### 其他
 * [6 ways to make your lists scroll faster than the wind](http://leftshift.io/6-ways-to-make-your-lists-scroll-faster-than-the-wind) 提升ListView滚动速度
+
+## ActionBar / ToolBar
+* [android：ToolBar详解（手把手教程）](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1118/2006.html)
  
 ## Gradle
 * [Gradle tip #1: tasks](http://trickyandroid.com/gradle-tip-1-tasks/)
