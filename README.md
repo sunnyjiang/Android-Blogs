@@ -87,6 +87,7 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 * [Implementing an Android REST Client using Retrofit](http://inaka.net/blog/2014/10/10/android-retrofit-rest-client/)
 * [Retrofit — Getting Started and Create an Android Client](https://futurestud.io/blog/retrofit-getting-started-and-android-client/)
 * [How To Use Retrofit Library In Your Android App](http://simpledeveloper.com/how-to-use-retrofit-library-in-android/)
+* [Retrofit – Using Jackson JSON Conversion](http://kdubblabs.com/java/retrofit-by-square/retrofit-using-jackson-json-conversion/) 使用Jackson解析
 
 ### EventBus
 * [Quick Tip: How to Use the EventBus Library](http://code.tutsplus.com/tutorials/quick-tip-how-to-use-the-eventbus-library--cms-22694)
