@@ -64,7 +64,10 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 
 ## ActionBar / ToolBar
 * [android：ToolBar详解（手把手教程）](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1118/2006.html)
- 
+
+## Notification
+* [Notifications](https://guides.codepath.com/android/Notifications)
+
 ## Gradle
 * [Gradle tip #1: tasks](http://trickyandroid.com/gradle-tip-1-tasks/)
 * [Gradle tip #2: understanding syntax](http://trickyandroid.com/gradle-tip-2-understanding-syntax/)
