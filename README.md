@@ -38,7 +38,7 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 * [Android性能优化之电量篇](http://hukai.me/android-performance-battery/)
 * [Android性能优化典范 - 第2季](http://hukai.me/android-performance-patterns-season-2/)
 
-## ListView（Android开发重中之重）
+## ListView/RecyclerView/GridView（Android开发重中之重）
 ### Cyril Mottier - ListView Tips & Tricks 
 * [ListView Tips & Tricks #1: Handling Emptiness](http://cyrilmottier.com/2011/06/20/listview-tips-tricks-1-handle-emptiness/)
 * [ListView Tips & Tricks #2: Sectioning Your ListView](http://cyrilmottier.com/2011/07/05/listview-tips-tricks-2-section-your-listview/)
@@ -49,6 +49,9 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 ### Bill Phillips - RecyclerView
 * [RecyclerView Part 1: Fundamentals For ListView Experts](https://www.bignerdranch.com/blog/recyclerview-part-1-fundamentals-for-listview-experts/)
 * [RecyclerView Part 2: Choice Modes](https://www.bignerdranch.com/blog/recyclerview-part-2-choice-modes/)
+
+### Adapter
+* [Using an ArrayAdapter with ListView](https://github.com/codepath/android_guides/wiki/Using-an-ArrayAdapter-with-ListView)
 
 ### 其他
 * [6 ways to make your lists scroll faster than the wind](http://leftshift.io/6-ways-to-make-your-lists-scroll-faster-than-the-wind) 提升ListView滚动速度
