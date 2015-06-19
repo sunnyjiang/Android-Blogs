@@ -53,6 +53,12 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 ### Adapter
 * [Using an ArrayAdapter with ListView](https://github.com/codepath/android_guides/wiki/Using-an-ArrayAdapter-with-ListView)
 
+### 下拉刷新
+* [我眼中的下拉刷新](http://www.liaohuqiu.net/cn/posts/the-pull-to-refresh-in-my-eyes/)
+
+### 上拉加载更多
+* [加载更多](http://cube-sdk.liaohuqiu.net/cn/load-more/)
+
 ### 其他
 * [6 ways to make your lists scroll faster than the wind](http://leftshift.io/6-ways-to-make-your-lists-scroll-faster-than-the-wind) 提升ListView滚动速度
 
