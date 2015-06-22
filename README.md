@@ -120,10 +120,10 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) -- 什么是响应式编程(Reactive Programming)
 * [ReactiveX Tutorial](http://reactivex.io/tutorials.html)
 * [When Iron Man becomes reactive, RxJava](http://saulmm.github.io/when-Iron-Man-becomes-Reactive-Avengers2/)
-### Introduction to RxJava for Android
+* **Introduction to RxJava for Android**
 	* [INTRODUCTION TO RXJAVA FOR ANDROID: THE TALK](http://www.philosophicalhacker.com/2015/06/16/introduction-to-rxjava-for-android-the-talk/)
 	* [INTRODUCTION TO RXJAVA FOR ANDROID (PT. 2)](http://www.philosophicalhacker.com/2015/06/19/introduction-to-rxjava-for-android-pt-2/)
-### Grokking RxJava
+* **Grokking RxJava**
 	* [Grokking RxJava, Part 1: The Basics](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/)
 	* [Grokking RxJava, Part 2: Operator, Operator](http://blog.danlew.net/2014/09/22/grokking-rxjava-part-2/)
 	* [Grokking RxJava, Part 3: Reactive with Benefits](http://blog.danlew.net/2014/09/30/grokking-rxjava-part-3/)
