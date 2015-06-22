@@ -62,6 +62,14 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 ### 其他
 * [6 ways to make your lists scroll faster than the wind](http://leftshift.io/6-ways-to-make-your-lists-scroll-faster-than-the-wind) 提升ListView滚动速度
 
+## UI
+### Design Support Library
+* [Exploring the new Android Design Support Library](https://medium.com/ribot-labs/exploring-the-new-android-design-support-library-b7cda56d2c32)
+* [More Material Design with Topeka for Android](http://android-developers.blogspot.co.uk/2015/06/more-material-design-with-topeka-for_16.html)
+
+### Beautiful UI Widget
+* [How We Developed the Guillotine Menu Animation for Android](http://yalantis.com/blog/how-we-developed-the-guillotine-menu-animation-for-android/?utm_source=github)
+
 ## ActionBar / ToolBar
 * [android：ToolBar详解（手把手教程）](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1118/2006.html)
 
@@ -95,6 +103,7 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 
 ### EventBus
 * [Quick Tip: How to Use the EventBus Library](http://code.tutsplus.com/tutorials/quick-tip-how-to-use-the-eventbus-library--cms-22694)
+* [Why you should avoid using an event bus](http://endlesswhileloop.com/blog/2015/06/11/stop-using-event-buses/)
 
 ### ButterKnife
 * [ButterKnife--View注入框架](http://stormzhang.com/openandroid/android/2014/01/12/android-butterknife/)
@@ -111,13 +120,28 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) -- 什么是响应式编程(Reactive Programming)
 * [ReactiveX Tutorial](http://reactivex.io/tutorials.html)
 * [When Iron Man becomes reactive, RxJava](http://saulmm.github.io/when-Iron-Man-becomes-Reactive-Avengers2/)
+### Introduction to RxJava for Android
+	* [INTRODUCTION TO RXJAVA FOR ANDROID: THE TALK](http://www.philosophicalhacker.com/2015/06/16/introduction-to-rxjava-for-android-the-talk/)
+	* [INTRODUCTION TO RXJAVA FOR ANDROID (PT. 2)](http://www.philosophicalhacker.com/2015/06/19/introduction-to-rxjava-for-android-pt-2/)
+### Grokking RxJava
+	* [Grokking RxJava, Part 1: The Basics](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/)
+	* [Grokking RxJava, Part 2: Operator, Operator](http://blog.danlew.net/2014/09/22/grokking-rxjava-part-2/)
+	* [Grokking RxJava, Part 3: Reactive with Benefits](http://blog.danlew.net/2014/09/30/grokking-rxjava-part-3/)
+	* [Grokking RxJava, Part 4: Reactive Android](http://blog.danlew.net/2014/10/08/grokking-rxjava-part-4/)
 
-## Android开发工具
+## 其他
+* [THINGS YOU MAY NOT KNOW: TOOLS ATTRIBUTES](http://www.randomlytyping.com/blog/2015/6/17/things-you-may-not-know-about-tools-attributes) -- XML: `tools`属性
+
+
+## Android Studio/开发工具/AS插件
 * [推荐几个非常有用的工具](http://stormzhang.com/android/2015/05/26/android-tools/)
 * [搜索最好的 Android 代码——Android开发工具之Codota](http://www.imooc.com/article/1086)
+* [Android Studio Live Templates](https://www.bignerdranch.com/blog/android-studio-live-templates/)
+* [Level-up with Android Studio Shortcuts and Live Templates](http://stablekernel.com/blog/level-up-with-android-studio-shortcuts-and-live-templates/) -- AS快捷键
 
 ## 经验总结
 * [Android学习之路--stormzhang](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
 * [Top 10 Most Common Android Development Mistakes: A Programming Tutorial](http://www.toptal.com/android/top-10-most-common-android-development-mistakes)
 * [Android开源库](http://blog.daimajia.com/android-library-collection/)
+* [How to improve quality and syntax of your Android code](http://vincentbrison.com/2014/07/19/how-to-improve-quality-and-syntax-of-your-android-code/)
 
