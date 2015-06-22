@@ -79,7 +79,8 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 * [使用android.view.TouchDelegate扩大View的触摸点击区域](http://blog.csdn.net/tongcpp/article/details/23450975)
 
 ## 开发框架
-### Retrifit
+### Retrofit
+* [Retrofit官方文档](http://square.github.io/retrofit/)
 * [Retrofit开发指南](https://github.com/bboyfeiyu/android-tech-frontier/tree/master/issue-7/Retrofit%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97) 中文翻译
 * [Retrofit Android Tutorial](http://themakeinfo.com/2015/04/retrofit-android-tutorial/) 英文原版 
 * [Retrofit by Square](http://kdubblabs.com/java/retrofit-by-square/) 
@@ -88,6 +89,9 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 * [Retrofit — Getting Started and Create an Android Client](https://futurestud.io/blog/retrofit-getting-started-and-android-client/)
 * [How To Use Retrofit Library In Your Android App](http://simpledeveloper.com/how-to-use-retrofit-library-in-android/)
 * [Retrofit – Using Jackson JSON Conversion](http://kdubblabs.com/java/retrofit-by-square/retrofit-using-jackson-json-conversion/) 使用Jackson解析
+
+### Picasso
+* [Picasso官方文档](http://square.github.io/picasso/)
 
 ### EventBus
 * [Quick Tip: How to Use the EventBus Library](http://code.tutsplus.com/tutorials/quick-tip-how-to-use-the-eventbus-library--cms-22694)
@@ -102,6 +106,11 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 ### Realm
 * [Realm Java 0.80.3](https://realm.io/docs/java/latest/) -- Realm英文文档(Java)
 * [Realm中文文档](http://randy.party/2014/10/17/realm-doc-in-chinese.html)
+
+### RxJava
+* [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) -- 什么是响应式编程(Reactive Programming)
+* [ReactiveX Tutorial](http://reactivex.io/tutorials.html)
+* [When Iron Man becomes reactive, RxJava](http://saulmm.github.io/when-Iron-Man-becomes-Reactive-Avengers2/)
 
 ## Android开发工具
 * [推荐几个非常有用的工具](http://stormzhang.com/android/2015/05/26/android-tools/)
