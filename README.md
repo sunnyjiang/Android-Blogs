@@ -154,6 +154,7 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 * [STINSON'S PLAYBOOK FOR MOSBY](http://hannesdorfmann.com/android/mosby-playbook/)
 * [Introduction to Model-View-Presenter on Android](http://konmik.github.io/introduction-to-model-view-presenter-on-android.html)
 * [Android中的MVP](http://zhengxiaopeng.com/2015/02/06/Android%E4%B8%AD%E7%9A%84MVP/)
+* [一种在android中实现MVP模式的新思路](https://github.com/bboyfeiyu/android-tech-frontier/tree/master/androidweekly/%E4%B8%80%E7%A7%8D%E5%9C%A8android%E4%B8%AD%E5%AE%9E%E7%8E%B0MVP%E6%A8%A1%E5%BC%8F%E7%9A%84%E6%96%B0%E6%80%9D%E8%B7%AF) **[[英文原版](http://blog.cainwong.com/android-mvp-an-alternate-approach/)]**
 
 ## Android Studio/开发工具/AS插件
 * [推荐几个非常有用的工具](http://stormzhang.com/android/2015/05/26/android-tools/)
