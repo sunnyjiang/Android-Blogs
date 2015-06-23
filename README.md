@@ -147,6 +147,7 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 
 ## 其他
 * [THINGS YOU MAY NOT KNOW: TOOLS ATTRIBUTES](http://www.randomlytyping.com/blog/2015/6/17/things-you-may-not-know-about-tools-attributes) -- XML: `tools`属性
+* [ANNOTATION PROCESSING 101](http://hannesdorfmann.com/annotation-processing/annotationprocessing101/) -- Annotation 注解
 
 ## MVP
 * [MVP for Android: how to organize the presentation layer](http://antonioleiva.com/mvp-android/)
