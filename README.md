@@ -69,6 +69,7 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 
 ### Beautiful UI Widget
 * [How We Developed the Guillotine Menu Animation for Android](http://yalantis.com/blog/how-we-developed-the-guillotine-menu-animation-for-android/?utm_source=github)
+* [一步一步教你实现Periscope点赞效果](http://www.jianshu.com/p/03fdcfd3ae9c)
 
 ## ActionBar / ToolBar
 * [android：ToolBar详解（手把手教程）](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1118/2006.html)
@@ -85,6 +86,7 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 
 ## Hacky (小技巧)
 * [使用android.view.TouchDelegate扩大View的触摸点击区域](http://blog.csdn.net/tongcpp/article/details/23450975)
+* [Android EditText的使用及值得注意的地方](http://www.jianshu.com/p/1f05bb1fde3e)
 
 ## 开发框架
 ### Retrofit
@@ -129,9 +131,11 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 	* [Grokking RxJava, Part 3: Reactive with Benefits](http://blog.danlew.net/2014/09/30/grokking-rxjava-part-3/)
 	* [Grokking RxJava, Part 4: Reactive Android](http://blog.danlew.net/2014/10/08/grokking-rxjava-part-4/)
 
+## 测试
+* [用Robolectric来做Android unit testing](http://segmentfault.com/a/1190000002904944)
+
 ## 其他
 * [THINGS YOU MAY NOT KNOW: TOOLS ATTRIBUTES](http://www.randomlytyping.com/blog/2015/6/17/things-you-may-not-know-about-tools-attributes) -- XML: `tools`属性
-
 
 ## Android Studio/开发工具/AS插件
 * [推荐几个非常有用的工具](http://stormzhang.com/android/2015/05/26/android-tools/)
