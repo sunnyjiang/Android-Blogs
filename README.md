@@ -142,6 +142,7 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 	* [Grokking RxJava, Part 3: Reactive with Benefits](http://blog.danlew.net/2014/09/30/grokking-rxjava-part-3/)
 	* [Grokking RxJava, Part 4: Reactive Android](http://blog.danlew.net/2014/10/08/grokking-rxjava-part-4/)
 
+<<<<<<< Updated upstream
 ## 测试
 * [用Robolectric来做Android unit testing](http://segmentfault.com/a/1190000002904944)
 
@@ -156,6 +157,13 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 * [Introduction to Model-View-Presenter on Android](http://konmik.github.io/introduction-to-model-view-presenter-on-android.html)
 * [Android中的MVP](http://zhengxiaopeng.com/2015/02/06/Android%E4%B8%AD%E7%9A%84MVP/)
 * [一种在android中实现MVP模式的新思路](https://github.com/bboyfeiyu/android-tech-frontier/tree/master/androidweekly/%E4%B8%80%E7%A7%8D%E5%9C%A8android%E4%B8%AD%E5%AE%9E%E7%8E%B0MVP%E6%A8%A1%E5%BC%8F%E7%9A%84%E6%96%B0%E6%80%9D%E8%B7%AF) **[[英文原版](http://blog.cainwong.com/android-mvp-an-alternate-approach/)]**
+=======
+## XML
+* Tools -- XML: `tools`属性
+	* [THINGS YOU MAY NOT KNOW: TOOLS ATTRIBUTES](http://www.randomlytyping.com/blog/2015/6/17/things-you-may-not-know-about-tools-attributes)
+	* [Tools Attributes](http://tools.android.com/tech-docs/tools-attributes)
+	* [Designtime Layout Attributes](http://tools.android.com/tips/layout-designtime-attributes)
+>>>>>>> Stashed changes
 
 ## Android Studio/开发工具/AS插件
 * [推荐几个非常有用的工具](http://stormzhang.com/android/2015/05/26/android-tools/)
