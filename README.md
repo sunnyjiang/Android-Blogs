@@ -143,6 +143,7 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 * [TED MOSBY - SOFTWARE ARCHITECT](http://hannesdorfmann.com/android/mosby/)
 * [STINSON'S PLAYBOOK FOR MOSBY](http://hannesdorfmann.com/android/mosby-playbook/)
 * [Introduction to Model-View-Presenter on Android](http://konmik.github.io/introduction-to-model-view-presenter-on-android.html)
+* [Android中的MVP](http://zhengxiaopeng.com/2015/02/06/Android%E4%B8%AD%E7%9A%84MVP/)
 
 ## Android Studio/开发工具/AS插件
 * [推荐几个非常有用的工具](http://stormzhang.com/android/2015/05/26/android-tools/)
