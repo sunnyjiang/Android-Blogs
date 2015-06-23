@@ -87,6 +87,16 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 ## Hacky (小技巧)
 * [使用android.view.TouchDelegate扩大View的触摸点击区域](http://blog.csdn.net/tongcpp/article/details/23450975)
 * [Android EditText的使用及值得注意的地方](http://www.jianshu.com/p/1f05bb1fde3e)
+* *Android Tips Round-Up* [[PART 1](http://blog.danlew.net/2014/03/30/android-tips-round-up-part-1/)] [[PART 2](http://blog.danlew.net/2014/04/14/android-tips-round-up-part-2/)] [[PART 3](http://blog.danlew.net/2014/04/28/android-tips-round-up-part-3/)] [[PART 4](http://blog.danlew.net/2014/05/12/android-tips-round-up-part-4/)] [[PART 5](http://blog.danlew.net/2014/05/28/android-tips-round-up-part-5/)]
+* *Be a lazy but a productive android developer*
+	* [RoboGuice](http://www.technotalkative.com/lazy-productive-android-developer-1/)
+	* [Genymotion](http://www.technotalkative.com/lazy-productive-android-developer-2/)
+	* [JSON Parsing library](http://www.technotalkative.com/lazy-productive-android-developer-3/)
+	* [Card UI ](http://www.technotalkative.com/lazy-productive-android-developer-4/)
+	* [Image loading library](http://www.technotalkative.com/lazy-productive-android-developer-part-5-image-loading-library/)
+	* [Staggered GridView](http://www.technotalkative.com/lazy-productive-android-developer-part-6-staggered-gridview/)
+	* [Useful tools](http://www.technotalkative.com/lazy-android-part-7-useful-tools/)
+	* [Wireframe/Mockup design tools](http://www.technotalkative.com/lazy-part-8-wireframemockup-tools/?utm_source=feedly&utm_reader=feedly&utm_medium=rss&utm_campaign=lazy-part-8-wireframemockup-tools)
 
 ## 开发框架
 ### Retrofit
