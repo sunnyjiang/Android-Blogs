@@ -120,6 +120,7 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 
 ### RxJava
 * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) -- 什么是响应式编程(Reactive Programming)
+* [Top 7 Tips for RxJava on Android](http://futurice.com/blog/top-7-tips-for-rxjava-on-android)
 * [ReactiveX Tutorial](http://reactivex.io/tutorials.html)
 * [When Iron Man becomes reactive, RxJava](http://saulmm.github.io/when-Iron-Man-becomes-Reactive-Avengers2/)
 * **Introduction to RxJava for Android**
@@ -136,6 +137,11 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 
 ## 其他
 * [THINGS YOU MAY NOT KNOW: TOOLS ATTRIBUTES](http://www.randomlytyping.com/blog/2015/6/17/things-you-may-not-know-about-tools-attributes) -- XML: `tools`属性
+
+## MVP
+* [MVP for Android: how to organize the presentation layer](http://antonioleiva.com/mvp-android/)
+* [TED MOSBY - SOFTWARE ARCHITECT](http://hannesdorfmann.com/android/mosby/)
+* [STINSON'S PLAYBOOK FOR MOSBY](http://hannesdorfmann.com/android/mosby-playbook/)
 * [Introduction to Model-View-Presenter on Android](http://konmik.github.io/introduction-to-model-view-presenter-on-android.html)
 
 ## Android Studio/开发工具/AS插件
