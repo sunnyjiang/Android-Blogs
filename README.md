@@ -74,6 +74,9 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 ## ActionBar / ToolBar
 * [android：ToolBar详解（手把手教程）](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1118/2006.html)
 
+## Fragment
+* [Android Fragment完全解析，关于碎片你所需知道的一切](http://blog.csdn.net/guolin_blog/article/details/8881711)
+
 ## Notification
 * [Notifications](https://guides.codepath.com/android/Notifications)
 
