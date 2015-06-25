@@ -128,6 +128,9 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 ### [Picasso](https://github.com/square/picasso)
 * [Picasso官方文档](http://square.github.io/picasso/)
 
+### [Fresco](https://github.com/facebook/fresco)
+* [Fresco官方文档](http://fresco-cn.org/)
+
 ### [EventBus](https://github.com/greenrobot/EventBus)
 * [Quick Tip: How to Use the EventBus Library](http://code.tutsplus.com/tutorials/quick-tip-how-to-use-the-eventbus-library--cms-22694)
 * [Why you should avoid using an event bus](http://endlesswhileloop.com/blog/2015/06/11/stop-using-event-buses/)
