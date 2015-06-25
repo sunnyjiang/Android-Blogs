@@ -50,6 +50,9 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 * [RecyclerView Part 1: Fundamentals For ListView Experts](https://www.bignerdranch.com/blog/recyclerview-part-1-fundamentals-for-listview-experts/)
 * [RecyclerView Part 2: Choice Modes](https://www.bignerdranch.com/blog/recyclerview-part-2-choice-modes/)
 
+### Drag and Swipe
+* [Drag and Swipe with RecyclerView](https://medium.com/@ipaulpro/drag-and-swipe-with-recyclerview-b9456d2b1aaf)
+
 ### Adapter
 * [Using an ArrayAdapter with ListView](https://github.com/codepath/android_guides/wiki/Using-an-ArrayAdapter-with-ListView)
 
