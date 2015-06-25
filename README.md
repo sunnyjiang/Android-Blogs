@@ -113,7 +113,7 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 	* [Wireframe/Mockup design tools](http://www.technotalkative.com/lazy-part-8-wireframemockup-tools/?utm_source=feedly&utm_reader=feedly&utm_medium=rss&utm_campaign=lazy-part-8-wireframemockup-tools)
 
 ## 开发框架
-### Retrofit
+### [Retrofit](https://github.com/square/retrofit)
 * [Retrofit官方文档](http://square.github.io/retrofit/)
 * [Retrofit开发指南](https://github.com/bboyfeiyu/android-tech-frontier/tree/master/issue-7/Retrofit%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97) 中文翻译
 * [Retrofit Android Tutorial](http://themakeinfo.com/2015/04/retrofit-android-tutorial/) 英文原版 
@@ -124,25 +124,25 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 * [How To Use Retrofit Library In Your Android App](http://simpledeveloper.com/how-to-use-retrofit-library-in-android/)
 * [Retrofit – Using Jackson JSON Conversion](http://kdubblabs.com/java/retrofit-by-square/retrofit-using-jackson-json-conversion/) 使用Jackson解析
 
-### Picasso
+### [Picasso](https://github.com/square/picasso)
 * [Picasso官方文档](http://square.github.io/picasso/)
 
-### EventBus
+### [EventBus](https://github.com/greenrobot/EventBus)
 * [Quick Tip: How to Use the EventBus Library](http://code.tutsplus.com/tutorials/quick-tip-how-to-use-the-eventbus-library--cms-22694)
 * [Why you should avoid using an event bus](http://endlesswhileloop.com/blog/2015/06/11/stop-using-event-buses/)
 
-### ButterKnife
+### [ButterKnife](https://github.com/JakeWharton/butterknife)
 * [ButterKnife--View注入框架](http://stormzhang.com/openandroid/android/2014/01/12/android-butterknife/)
 
-### LeakCanary
+### [LeakCanary](https://github.com/square/leakcanary)
 * [LeakCanary 中文使用说明](http://www.liaohuqiu.net/cn/posts/leak-canary-read-me/)
 * [LeakCanary: 让内存泄露无所遁形](http://www.liaohuqiu.net/cn/posts/leak-canary/)
 
-### Realm
+### [Realm](https://realm.io/)
 * [Realm Java 0.80.3](https://realm.io/docs/java/latest/) -- Realm英文文档(Java)
 * [Realm中文文档](http://randy.party/2014/10/17/realm-doc-in-chinese.html)
 
-### RxJava
+### [RxJava](https://github.com/ReactiveX/RxJava)
 * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) -- 什么是响应式编程(Reactive Programming)
 * [Top 7 Tips for RxJava on Android](http://futurice.com/blog/top-7-tips-for-rxjava-on-android)
 * [ReactiveX Tutorial](http://reactivex.io/tutorials.html)
@@ -155,6 +155,9 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 	* [Grokking RxJava, Part 2: Operator, Operator](http://blog.danlew.net/2014/09/22/grokking-rxjava-part-2/)
 	* [Grokking RxJava, Part 3: Reactive with Benefits](http://blog.danlew.net/2014/09/30/grokking-rxjava-part-3/)
 	* [Grokking RxJava, Part 4: Reactive Android](http://blog.danlew.net/2014/10/08/grokking-rxjava-part-4/)
+
+### [Dagger](https://github.com/square/dagger)
+* [Dagger 源码解析](https://github.com/android-cn/android-open-project-analysis/tree/master/dagger)
 
 ## 测试
 * [用Robolectric来做Android unit testing](http://segmentfault.com/a/1190000002904944)
