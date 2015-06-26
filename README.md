@@ -75,6 +75,7 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 ### Beautiful UI Widget
 * [How We Developed the Guillotine Menu Animation for Android](http://yalantis.com/blog/how-we-developed-the-guillotine-menu-animation-for-android/?utm_source=github)
 * [一步一步教你实现Periscope点赞效果](http://www.jianshu.com/p/03fdcfd3ae9c)
+* [Card Library : Customization](https://github.com/gabrielemariotti/cardslib/blob/master/doc/CUSTOMIZATION.md) -- 自定义Card View
 
 ### Custom View
 * [Creating Custom Views -- Android官方Training](http://developer.android.com/training/custom-views/index.html)
