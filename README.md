@@ -167,6 +167,7 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 * [Dagger 源码解析](https://github.com/android-cn/android-open-project-analysis/tree/master/dagger)
 
 ## 测试
+* [Robolectric Installation for Unit Testing](https://github.com/codepath/android_guides/wiki/Robolectric-Installation-for-Unit-Testing)
 * [用Robolectric来做Android unit testing](http://segmentfault.com/a/1190000002904944)
 
 ## 其他
