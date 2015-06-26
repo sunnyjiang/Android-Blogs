@@ -129,6 +129,7 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 
 ### [Picasso](https://github.com/square/picasso)
 * [Picasso官方文档](http://square.github.io/picasso/)
+* [Solving the Android image loading problem: Volley vs. Picasso](https://www.bignerdranch.com/blog/solving-the-android-image-loading-problem-volley-vs-picasso/)
 
 ### [Fresco](https://github.com/facebook/fresco)
 * [Fresco官方文档](http://fresco-cn.org/)
