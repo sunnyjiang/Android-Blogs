@@ -63,6 +63,7 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 
 ### 上拉加载更多
 * [加载更多](http://cube-sdk.liaohuqiu.net/cn/load-more/)
+* [Endless Scrolling with AdapterViews](https://github.com/codepath/android_guides/wiki/Endless-Scrolling-with-AdapterViews)
 
 ### 其他
 * [6 ways to make your lists scroll faster than the wind](http://leftshift.io/6-ways-to-make-your-lists-scroll-faster-than-the-wind) 提升ListView滚动速度
@@ -76,6 +77,8 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 * [How We Developed the Guillotine Menu Animation for Android](http://yalantis.com/blog/how-we-developed-the-guillotine-menu-animation-for-android/?utm_source=github)
 * [一步一步教你实现Periscope点赞效果](http://www.jianshu.com/p/03fdcfd3ae9c)
 * [Card Library : Customization](https://github.com/gabrielemariotti/cardslib/blob/master/doc/CUSTOMIZATION.md) -- 自定义Card View
+* [*GraphView*](http://www.android-graphview.org/) -- open source graph plotting
+library for Android
 
 ### Custom View
 * [Creating Custom Views -- Android官方Training](http://developer.android.com/training/custom-views/index.html)
