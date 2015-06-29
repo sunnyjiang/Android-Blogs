@@ -198,6 +198,7 @@ library for Android
 * [搜索最好的 Android 代码——Android开发工具之Codota](http://www.imooc.com/article/1086)
 * [Android Studio Live Templates](https://www.bignerdranch.com/blog/android-studio-live-templates/)
 * [Level-up with Android Studio Shortcuts and Live Templates](http://stablekernel.com/blog/level-up-with-android-studio-shortcuts-and-live-templates/) -- AS快捷键
+* [How to distribute your own Android library through jCenter and Maven Central from Android Studio](http://inthecheesefactory.com/blog/how-to-upload-library-to-jcenter-maven-central-as-dependency/en) *[[中文版](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0623/3097.html)]* -- 如何使用Android Studio把自己的Android library分享到jCenter和Maven Central
 
 ## 经验总结
 * [Android学习之路--stormzhang](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
