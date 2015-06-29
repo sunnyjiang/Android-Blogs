@@ -8,7 +8,7 @@ Android Weekly | [http://androidweekly.net/](http://androidweekly.net/) | Androi
 Android Weekly 中文版 | [http://androidweekly.cn/](http://androidweekly.cn/) | Android中文周刊，暂时只支持RSS订阅，每周一更新
 [Code Path](https://github.com/codepath/android_guides/wiki) | [https://guides.codepath.com/android](https://guides.codepath.com/android) | 教程通俗易懂
 [Android开发技术前线](https://github.com/bboyfeiyu/android-tech-frontier) | [http://www.devtf.cn/](http://www.devtf.cn/) | 一个定期翻译、发布国内外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目
-[Styling Android](https://blog.stylingandroid.com/) |
+[Styling Android](https://blog.stylingandroid.com/) | [https://blog.stylingandroid.com/](https://blog.stylingandroid.com/) | 专注Android Design实现
 Big Nerd Ranch | [https://www.bignerdranch.com/blog/categories/android/](https://www.bignerdranch.com/blog/categories/android/) | 他们所写的培训教程非常有名
 Square | [https://corner.squareup.com/](https://corner.squareup.com/) | 良心企业
 FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/android/) | 良心企业
@@ -20,7 +20,7 @@ Ravi Tamada | [Androidhive](http://www.androidhive.info/) | 博文非常基础�
 [Trinea](https://github.com/Trinea/) | [http://www.trinea.cn/category/android/](http://www.trinea.cn/category/android/) | 
 codekk | [http://www.codekk.com/open-source-project-analysis](http://www.codekk.com/open-source-project-analysis) | Trinea发起的Android开源项目分析
 [stormzhang](https://github.com/stormzhang) | [http://stormzhang.com/](http://stormzhang.com/) |
-[Daniel Lew](https://github.com/dlew) | [](http://blog.danlew.net/) | 
+[Daniel Lew](https://github.com/dlew) | [http://blog.danlew.net/](http://blog.danlew.net/) | 
 [代码家](https://github.com/daimajia) | [http://blog.daimajia.com/](http://blog.daimajia.com/) |
 郭林 | [郭林的专栏](http://blog.csdn.net/guolin_blog) | CSDN 博客之星, 《第一行代码》作者
 
