@@ -117,6 +117,7 @@ library for Android
 	* [Staggered GridView](http://www.technotalkative.com/lazy-productive-android-developer-part-6-staggered-gridview/)
 	* [Useful tools](http://www.technotalkative.com/lazy-android-part-7-useful-tools/)
 	* [Wireframe/Mockup design tools](http://www.technotalkative.com/lazy-part-8-wireframemockup-tools/?utm_source=feedly&utm_reader=feedly&utm_medium=rss&utm_campaign=lazy-part-8-wireframemockup-tools)
+* [Why You Should Use a GIT SHA in Your Crash Reporting](http://www.donnfelker.com/why-you-should-use-a-git-sha-in-your-crash-reporting/)
 
 ## 开发框架
 ### [Retrofit](https://github.com/square/retrofit)
@@ -172,6 +173,7 @@ library for Android
 ## 测试
 * [Robolectric Installation for Unit Testing](https://github.com/codepath/android_guides/wiki/Robolectric-Installation-for-Unit-Testing)
 * [用Robolectric来做Android unit testing](http://segmentfault.com/a/1190000002904944)
+* [Everybody Tests: Boom! Screenshot! ](http://www.everybodytests.com/2015/06/boom-screenshot-level-up-your-test.html)
 
 ## 其他
 * [THINGS YOU MAY NOT KNOW: TOOLS ATTRIBUTES](http://www.randomlytyping.com/blog/2015/6/17/things-you-may-not-know-about-tools-attributes) -- XML: `tools`属性
