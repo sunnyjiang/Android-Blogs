@@ -8,6 +8,7 @@ Android Weekly | [http://androidweekly.net/](http://androidweekly.net/) | Androi
 Android Weekly 中文版 | [http://androidweekly.cn/](http://androidweekly.cn/) | Android中文周刊，暂时只支持RSS订阅，每周一更新
 [Code Path](https://github.com/codepath/android_guides/wiki) | [https://guides.codepath.com/android](https://guides.codepath.com/android) | 教程通俗易懂
 [Android开发技术前线](https://github.com/bboyfeiyu/android-tech-frontier) | [http://www.devtf.cn/](http://www.devtf.cn/) | 一个定期翻译、发布国内外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目
+[Styling Android](https://blog.stylingandroid.com/) | [https://blog.stylingandroid.com/](https://blog.stylingandroid.com/) | 专注Android Design Pattern实现
 Vogella | [vogella](http://blog.vogella.com/category/android/) | Android基础教程
 Cyril Mottier | [http://cyrilmottier.com/](http://cyrilmottier.com/) | 
 Ravi Tamada | [Androidhive](http://www.androidhive.info/) | 博文非常基础，非常详细
