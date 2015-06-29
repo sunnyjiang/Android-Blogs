@@ -12,7 +12,7 @@ Android Weekly 中文版 | [http://androidweekly.cn/](http://androidweekly.cn/) 
 Big Nerd Ranch | [https://www.bignerdranch.com/blog/categories/android/](https://www.bignerdranch.com/blog/categories/android/) | 他们所写的培训教程非常有名
 Square | [https://corner.squareup.com/](https://corner.squareup.com/) | 良心企业
 FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/android/) | 良心企业
-[https://blog.stylingandroid.com/](https://blog.stylingandroid.com/) | 专注Android Design Pattern实现
+Styling Android | [https://blog.stylingandroid.com/](https://blog.stylingandroid.com/) | 专注Android Design Pattern实现
 Vogella | [vogella](http://blog.vogella.com/category/android/) | Android基础教程
 Cyril Mottier | [http://cyrilmottier.com/](http://cyrilmottier.com/) | 
 Ravi Tamada | [Androidhive](http://www.androidhive.info/) | 博文非常基础，非常详细
