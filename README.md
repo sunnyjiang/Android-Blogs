@@ -184,6 +184,7 @@ library for Android
 * [Robolectric Installation for Unit Testing](https://github.com/codepath/android_guides/wiki/Robolectric-Installation-for-Unit-Testing)
 * [用Robolectric来做Android unit testing](http://segmentfault.com/a/1190000002904944)
 * [Everybody Tests: Boom! Screenshot! ](http://www.everybodytests.com/2015/06/boom-screenshot-level-up-your-test.html)
+* [All in Together: Android Studio, Gradle and Robolectric](https://www.bignerdranch.com/blog/all-in-together-android-studio-gradle-and-robolectric/)
 * [Triumph! Android Studio 1.2 Sneaks In Full Testing Support](https://www.bignerdranch.com/blog/triumph-android-studio-1-2-sneaks-in-full-testing-support/)
 
 ## 其他
