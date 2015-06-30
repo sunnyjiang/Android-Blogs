@@ -92,6 +92,10 @@ library for Android
 * [Android视图绘制流程完全解析，带你一步步深入了解View(二)](http://blog.csdn.net/guolin_blog/article/details/16330267)
 * [Android视图状态及重绘流程分析，带你一步步深入了解View(三)](http://blog.csdn.net/guolin_blog/article/details/17045157)
 * [Android自定义View的实现方法，带你一步步深入了解View(四)](http://blog.csdn.net/guolin_blog/article/details/17357967)
+* [Creating custom Android views – Part 1: Extending standard views and adding new xml attributes](http://www.jayway.com/2012/06/25/creating-custom-android-views-part-1-extending-standard-views-and-adding-new-xml-attributes/)
+* [Creating custom Android views – Part 2: How padding works and how to draw your own content](http://www.jayway.com/2012/07/03/creating-custom-android-views-part-2-how-padding-works-and-how-to-draw-your-own-content/)
+* [Creating custom Android views – Part 3: Animating your custom views, smoothly](http://www.jayway.com/2012/08/29/creating-custom-android-views-part-3-animating-your-custom-views-smoothly/)
+* [Creating custom Android views – Part 4: Measuring and how to force a view to be square](http://www.jayway.com/2012/12/12/creating-custom-android-views-part-4-measuring-and-how-to-force-a-view-to-be-square/)
 
 ## ActionBar / ToolBar
 * [android：ToolBar详解（手把手教程）](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1118/2006.html)
