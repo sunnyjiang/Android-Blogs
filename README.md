@@ -147,6 +147,9 @@ library for Android
 ### [Fresco](https://github.com/facebook/fresco)
 * [Fresco官方文档](http://fresco-cn.org/)
 
+### [Glide](https://github.com/bumptech/glide)
+* [Introduction to Glide, Image Loader Library for Android, recommended by Google](http://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en)
+
 ### [EventBus](https://github.com/greenrobot/EventBus)
 * [Quick Tip: How to Use the EventBus Library](http://code.tutsplus.com/tutorials/quick-tip-how-to-use-the-eventbus-library--cms-22694)
 * [Why you should avoid using an event bus](http://endlesswhileloop.com/blog/2015/06/11/stop-using-event-buses/)
