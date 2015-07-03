@@ -102,6 +102,8 @@ library for Android
 
 ## Fragment
 * [Android Fragment完全解析，关于碎片你所需知道的一切](http://blog.csdn.net/guolin_blog/article/details/8881711)
+* [Probably be the best way (?) to save/restore Android Fragment’s state so far](http://inthecheesefactory.com/blog/best-approach-to-keep-android-fragment-state/en)
+* [How to make onActivityResult get called on Nested Fragment](http://inthecheesefactory.com/blog/how-to-fix-nested-fragment-onactivityresult-issue/en)
 
 ## Notification
 * [Notifications](https://guides.codepath.com/android/Notifications)
