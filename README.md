@@ -85,7 +85,7 @@ codekk | [http://www.codekk.com/open-source-project-analysis](http://www.codekk.
 * [*GraphView*](http://www.android-graphview.org/) -- open source graph plotting
 library for Android
 
-### Custom View
+### Custom View/ViewGroup
 * [Creating Custom Views -- Android官方Training](http://developer.android.com/training/custom-views/index.html)
 * [Defining Custom Views](https://github.com/codepath/android_guides/wiki/Defining-Custom-Views)
 * [Android LayoutInflater原理分析，带你一步步深入了解View(一)](http://blog.csdn.net/guolin_blog/article/details/12921889)
@@ -96,6 +96,7 @@ library for Android
 * [Creating custom Android views – Part 2: How padding works and how to draw your own content](http://www.jayway.com/2012/07/03/creating-custom-android-views-part-2-how-padding-works-and-how-to-draw-your-own-content/)
 * [Creating custom Android views – Part 3: Animating your custom views, smoothly](http://www.jayway.com/2012/08/29/creating-custom-android-views-part-3-animating-your-custom-views-smoothly/)
 * [Creating custom Android views – Part 4: Measuring and how to force a view to be square](http://www.jayway.com/2012/12/12/creating-custom-android-views-part-4-measuring-and-how-to-force-a-view-to-be-square/)
+* [https://sriramramani.wordpress.com/2015/05/06/custom-viewgroups/](https://sriramramani.wordpress.com/2015/05/06/custom-viewgroups/)
 
 ## ActionBar / ToolBar
 * [android：ToolBar详解（手把手教程）](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1118/2006.html)
