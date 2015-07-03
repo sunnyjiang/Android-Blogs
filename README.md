@@ -220,3 +220,6 @@ library for Android
 * [Android开源库](http://blog.daimajia.com/android-library-collection/)
 * [How to improve quality and syntax of your Android code](http://vincentbrison.com/2014/07/19/how-to-improve-quality-and-syntax-of-your-android-code/)
 
+## StackOverflow
+* [ListView 设置EmptyView](http://stackoverflow.com/a/17807347)
+
