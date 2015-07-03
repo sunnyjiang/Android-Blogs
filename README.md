@@ -10,6 +10,7 @@ Android Weekly 中文版 | [http://androidweekly.cn/](http://androidweekly.cn/) 
 [Android开发技术前线](https://github.com/bboyfeiyu/android-tech-frontier) | [http://www.devtf.cn/](http://www.devtf.cn/) | 一个定期翻译、发布国内外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目
 [Styling Android](https://blog.stylingandroid.com/) | [https://blog.stylingandroid.com/](https://blog.stylingandroid.com/) | 专注Android Design实现
 Big Nerd Ranch | [https://www.bignerdranch.com/blog/categories/android/](https://www.bignerdranch.com/blog/categories/android/) | 他们所写的培训教程非常有名
+Android Design Patterns | [http://www.androiddesignpatterns.com/](http://www.androiddesignpatterns.com/) | 
 The Cheese Factory | [http://inthecheesefactory.com/blog](http://inthecheesefactory.com/blog) | 2015年才开的博客，内容非常新
 Square | [https://corner.squareup.com/](https://corner.squareup.com/) | 良心企业
 FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/android/) | 良心企业
@@ -43,6 +44,10 @@ codekk | [http://www.codekk.com/open-source-project-analysis](http://www.codekk.
 * [Android性能优化之内存篇](http://hukai.me/android-performance-memory/)
 * [Android性能优化之电量篇](http://hukai.me/android-performance-battery/)
 * [Android性能优化典范 - 第2季](http://hukai.me/android-performance-patterns-season-2/)
+
+### 内存泄露
+* [How to Leak a Context: Handlers & Inner Classes](http://www.androiddesignpatterns.com/2013/01/inner-class-handler-memory-leak.html)
+* [Activitys, Threads, & Memory Leaks](http://www.androiddesignpatterns.com/2013/04/activitys-threads-memory-leaks.html)
 
 ## ListView/RecyclerView/GridView（Android开发重中之重）
 ### Cyril Mottier - ListView Tips & Tricks 
