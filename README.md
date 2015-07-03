@@ -15,6 +15,7 @@ The Cheese Factory | [http://inthecheesefactory.com/blog](http://inthecheesefact
 Square | [https://corner.squareup.com/](https://corner.squareup.com/) | 良心企业
 FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/android/) | 良心企业
 Vogella | [vogella](http://blog.vogella.com/category/android/) | Android基础教程
+[Saúl Molinero](https://github.com/saulmm) | [http://saulmm.github.io/](http://saulmm.github.io/) | 
 Cyril Mottier | [http://cyrilmottier.com/](http://cyrilmottier.com/) | 
 Ravi Tamada | [Androidhive](http://www.androidhive.info/) | 博文非常基础，非常详细
 [liaohuqiu](https://github.com/liaohuqiu) | [http://www.liaohuqiu.net/cn/](http://www.liaohuqiu.net/cn/) |
@@ -89,6 +90,8 @@ codekk | [http://www.codekk.com/open-source-project-analysis](http://www.codekk.
 * [Exploring the new Android Design Support Library](https://medium.com/ribot-labs/exploring-the-new-android-design-support-library-b7cda56d2c32)
 * [More Material Design with Topeka for Android](http://android-developers.blogspot.co.uk/2015/06/more-material-design-with-topeka-for_16.html)
 * [Codelab for Android Design Support Library used in I/O Rewind Bangkok session](http://inthecheesefactory.com/blog/android-design-support-library-codelab/en)
+* [TIPS AND TRICKS FOR ANDROID MATERIAL SUPPORT LIBRARY](http://code.hootsuite.com/tips-and-tricks-for-android-material-support-library/)
+* [TIPS AND TRICKS FOR ANDROID MATERIAL SUPPORT LIBRARY 2: ELECTRIC BOOGALOO](http://code.hootsuite.com/tips-and-tricks-for-android-material-support-library-2-electric-boogaloo/)
 
 ### Beautiful UI Widget
 * [How We Developed the Guillotine Menu Animation for Android](http://yalantis.com/blog/how-we-developed-the-guillotine-menu-animation-for-android/?utm_source=github)
@@ -145,6 +148,11 @@ library for Android
 	* [Useful tools](http://www.technotalkative.com/lazy-android-part-7-useful-tools/)
 	* [Wireframe/Mockup design tools](http://www.technotalkative.com/lazy-part-8-wireframemockup-tools/?utm_source=feedly&utm_reader=feedly&utm_medium=rss&utm_campaign=lazy-part-8-wireframemockup-tools)
 * [Why You Should Use a GIT SHA in Your Crash Reporting](http://www.donnfelker.com/why-you-should-use-a-git-sha-in-your-crash-reporting/)
+* *Supporting multiple themes in your Android app* [[(Part 1)](http://www.hidroh.com/2015/02/16/support-multiple-themes-android-app/)] [[(Part 2)](http://www.hidroh.com/2015/02/25/support-multiple-themes-android-app-part-2/)]
+* [A useful stack on android #1, architecture](http://saulmm.github.io/2015/02/02/A%20useful%20stack%20on%20android%20%231,%20architecture/)
+* [A useful stack on android #2, user interface](http://saulmm.github.io/a-useful-stack-on-android-2-user-interface/)
+* [A useful stack on android #3, compatibility](http://saulmm.github.io/a-useful-stack-on-android-3-compatibility/)
+* [Going multiprocess on Android](https://medium.com/@rotxed/going-multiprocess-on-android-52975ed8863c)
 
 ## 开发框架
 ### [Retrofit](https://github.com/square/retrofit)
