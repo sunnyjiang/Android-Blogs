@@ -17,7 +17,8 @@ FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/androi
 Vogella | [vogella](http://blog.vogella.com/category/android/) | Android基础教程
 [Saúl Molinero](https://github.com/saulmm) | [http://saulmm.github.io/](http://saulmm.github.io/) | 
 Cyril Mottier | [http://cyrilmottier.com/](http://cyrilmottier.com/) | 
-Ravi Tamada | [Androidhive](http://www.androidhive.info/) | 博文非常基础，非常详细
+TechnoTalkative | [http://www.technotalkative.com/](http://www.technotalkative.com/) | the lazy android developers 系列作者
+Ravi Tamada | [Androidhive](http://www.androidhive.info/) | 博文非常基础，非常详细，适合初学者
 [liaohuqiu](https://github.com/liaohuqiu) | [http://www.liaohuqiu.net/cn/](http://www.liaohuqiu.net/cn/) |
 [Trinea](https://github.com/Trinea/) | [http://www.trinea.cn/category/android/](http://www.trinea.cn/category/android/) | 
 codekk | [http://www.codekk.com/open-source-project-analysis](http://www.codekk.com/open-source-project-analysis) | Trinea发起的Android开源项目分析
@@ -65,6 +66,11 @@ codekk | [http://www.codekk.com/open-source-project-analysis](http://www.codekk.
 * [RecyclerView Part 1: Fundamentals For ListView Experts](https://www.bignerdranch.com/blog/recyclerview-part-1-fundamentals-for-listview-experts/)
 * [RecyclerView Part 2: Choice Modes](https://www.bignerdranch.com/blog/recyclerview-part-2-choice-modes/)
 
+### Building a RecyclerView LayoutManager
+* [Building a RecyclerView LayoutManager – Part 1](http://wiresareobsolete.com/2014/09/building-a-recyclerview-layoutmanager-part-1/)
+* [Building a RecyclerView LayoutManager – Part 2](http://wiresareobsolete.com/2014/09/recyclerview-layoutmanager-2/)
+* [Building a RecyclerView LayoutManager – Part 3](http://wiresareobsolete.com/2015/02/recyclerview-layoutmanager-3/)
+
 ### Drag and Swipe
 * [Drag and Swipe with RecyclerView](https://medium.com/@ipaulpro/drag-and-swipe-with-recyclerview-b9456d2b1aaf)
 
@@ -78,7 +84,9 @@ codekk | [http://www.codekk.com/open-source-project-analysis](http://www.codekk.
 * [加载更多](http://cube-sdk.liaohuqiu.net/cn/load-more/)
 * [Endless Scrolling with AdapterViews](https://github.com/codepath/android_guides/wiki/Endless-Scrolling-with-AdapterViews)
 
-### Fast Scroller
+### Scrolling
+* [Scrolling RecyclerView – Part 1](https://blog.stylingandroid.com/scrolling-recyclerview-part-1/)
+* [Scrolling RecyclerView – Part 2](https://blog.stylingandroid.com/scrolling-recycler-view-part-2/)
 * [RecyclerView FastScroll – Part 1](https://blog.stylingandroid.com/recyclerview-fastscroll-part-1/)
 * [RecyclerView FastScroll – Part 2](https://blog.stylingandroid.com/recyclerview-fastscroll-part-2/)
 
@@ -117,6 +125,9 @@ library for Android
 
 ## ActionBar / ToolBar
 * [android：ToolBar详解（手把手教程）](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1118/2006.html)
+* [How to hide/show Toolbar when list is scroling (part 1)](http://mzgreen.github.io/2015/02/15/How-to-hideshow-Toolbar-when-list-is-scroling%28part1%29/)
+* [How to hide/show Toolbar when list is scrolling (part 2)](http://mzgreen.github.io/2015/02/28/How-to-hideshow-Toolbar-when-list-is-scrolling%28part2%29/)
+* [How to hide/show Toolbar when list is scrolling (part 3)](https://mzgreen.github.io/2015/06/23/How-to-hideshow-Toolbar-when-list-is-scrolling%28part3%29/)
 
 ## Fragment
 * [Android Fragment完全解析，关于碎片你所需知道的一切](http://blog.csdn.net/guolin_blog/article/details/8881711)
@@ -147,12 +158,15 @@ library for Android
 	* [Staggered GridView](http://www.technotalkative.com/lazy-productive-android-developer-part-6-staggered-gridview/)
 	* [Useful tools](http://www.technotalkative.com/lazy-android-part-7-useful-tools/)
 	* [Wireframe/Mockup design tools](http://www.technotalkative.com/lazy-part-8-wireframemockup-tools/?utm_source=feedly&utm_reader=feedly&utm_medium=rss&utm_campaign=lazy-part-8-wireframemockup-tools)
+	* [Reverse engineering android applications](http://www.technotalkative.com/part-9-reverse-engineering-android-applications/)
+	* [The Hitchhiker’s guide to Android Testing](http://www.technotalkative.com/part-10-the-hitchhikers-guide-to-android-testing/)
 * [Why You Should Use a GIT SHA in Your Crash Reporting](http://www.donnfelker.com/why-you-should-use-a-git-sha-in-your-crash-reporting/)
 * *Supporting multiple themes in your Android app* [[(Part 1)](http://www.hidroh.com/2015/02/16/support-multiple-themes-android-app/)] [[(Part 2)](http://www.hidroh.com/2015/02/25/support-multiple-themes-android-app-part-2/)]
 * [A useful stack on android #1, architecture](http://saulmm.github.io/2015/02/02/A%20useful%20stack%20on%20android%20%231,%20architecture/)
 * [A useful stack on android #2, user interface](http://saulmm.github.io/a-useful-stack-on-android-2-user-interface/)
 * [A useful stack on android #3, compatibility](http://saulmm.github.io/a-useful-stack-on-android-3-compatibility/)
 * [Going multiprocess on Android](https://medium.com/@rotxed/going-multiprocess-on-android-52975ed8863c)
+* [Fast Rendering News Feed on Android](https://code.facebook.com/posts/879498888759525/fast-rendering-news-feed-on-android/?pnref=story)
 
 ## 开发框架
 ### [Retrofit](https://github.com/square/retrofit)
@@ -193,6 +207,7 @@ library for Android
 
 ### [RxJava](https://github.com/ReactiveX/RxJava)
 * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) -- 什么是响应式编程(Reactive Programming)
+* [What is Functional Reactive Programming?](https://www.bignerdranch.com/blog/what-is-functional-reactive-programming/)
 * [Top 7 Tips for RxJava on Android](http://futurice.com/blog/top-7-tips-for-rxjava-on-android)
 * [ReactiveX Tutorial](http://reactivex.io/tutorials.html)
 * [When Iron Man becomes reactive, RxJava](http://saulmm.github.io/when-Iron-Man-becomes-Reactive-Avengers2/)
@@ -205,6 +220,8 @@ library for Android
 	* [Grokking RxJava, Part 3: Reactive with Benefits](http://blog.danlew.net/2014/09/30/grokking-rxjava-part-3/)
 	* [Grokking RxJava, Part 4: Reactive Android](http://blog.danlew.net/2014/10/08/grokking-rxjava-part-4/)
 * [Loading data from multiple sources with RxJava](http://blog.danlew.net/2015/06/22/loading-data-from-multiple-sources-with-rxjava/)
+* [Don't break the chain: use RxJava's compose() operator](http://blog.danlew.net/2015/03/02/dont-break-the-chain/)
+* [Replace AsyncTask and AsyncTaskLoader with rx.Observable – RxJava Android Patterns](http://stablekernel.com/blog/replace-asynctask-asynctaskloader-rx-observable-rxjava-android-patterns/)
 
 ### [Dagger](https://github.com/square/dagger)
 * [Dagger 源码解析](https://github.com/android-cn/android-open-project-analysis/tree/master/dagger)
@@ -216,12 +233,16 @@ library for Android
 * [All in Together: Android Studio, Gradle and Robolectric](https://www.bignerdranch.com/blog/all-in-together-android-studio-gradle-and-robolectric/)
 * [Triumph! Android Studio 1.2 Sneaks In Full Testing Support](https://www.bignerdranch.com/blog/triumph-android-studio-1-2-sneaks-in-full-testing-support/)
 * [Parameterized testing with Robolectric](http://www.jayway.com/2015/03/19/parameterized-testing-with-robolectric/)
+* [Android Tools Project Site -- Unit testing support](https://sites.google.com/a/android.com/tools/tech-docs/unit-testing-support)
 
 ## 其他
 * [THINGS YOU MAY NOT KNOW: TOOLS ATTRIBUTES](http://www.randomlytyping.com/blog/2015/6/17/things-you-may-not-know-about-tools-attributes) -- XML: `tools`属性
 * [Tools Attributes](http://tools.android.com/tech-docs/tools-attributes)
+* [Tools of the trade — Part 1](https://medium.com/sebs-top-tips/tools-of-the-trade-part-1-f3c1c73de898)
+* [Tools of the trade — Part 2](https://medium.com/sebs-top-tips/tools-of-the-trade-part-2-b91271892d10)
 * [Designtime Layout Attributes](http://tools.android.com/tips/layout-designtime-attributes)
 * [ANNOTATION PROCESSING 101](http://hannesdorfmann.com/annotation-processing/annotationprocessing101/) -- Annotation 注解
+* [A Look At Android Support Annotations](http://anupcowkur.com/posts/a-look-at-android-support-annotations/)
 
 ## MVP
 * [MVP for Android: how to organize the presentation layer](http://antonioleiva.com/mvp-android/)
@@ -236,6 +257,7 @@ library for Android
 * [Android Studio Live Templates](https://www.bignerdranch.com/blog/android-studio-live-templates/)
 * [Level-up with Android Studio Shortcuts and Live Templates](http://stablekernel.com/blog/level-up-with-android-studio-shortcuts-and-live-templates/) -- AS快捷键
 * [How to distribute your own Android library through jCenter and Maven Central from Android Studio](http://inthecheesefactory.com/blog/how-to-upload-library-to-jcenter-maven-central-as-dependency/en) *[[中文版](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0623/3097.html)]* -- 如何使用Android Studio把自己的Android library分享到jCenter和Maven Central
+* [IDEA Colors & Fonts](http://www.ideacolorthemes.org/) -- 丰富的AS主题
 
 ## 经验总结
 * [Android学习之路--stormzhang](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
