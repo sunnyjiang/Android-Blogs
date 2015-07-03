@@ -243,6 +243,7 @@ library for Android
 * [Designtime Layout Attributes](http://tools.android.com/tips/layout-designtime-attributes)
 * [ANNOTATION PROCESSING 101](http://hannesdorfmann.com/annotation-processing/annotationprocessing101/) -- Annotation 注解
 * [A Look At Android Support Annotations](http://anupcowkur.com/posts/a-look-at-android-support-annotations/)
+* [Parcelable vs Serializable](http://www.developerphil.com/parcelable-vs-serializable/)
 
 ## MVP
 * [MVP for Android: how to organize the presentation layer](http://antonioleiva.com/mvp-android/)
@@ -258,6 +259,14 @@ library for Android
 * [Level-up with Android Studio Shortcuts and Live Templates](http://stablekernel.com/blog/level-up-with-android-studio-shortcuts-and-live-templates/) -- AS快捷键
 * [How to distribute your own Android library through jCenter and Maven Central from Android Studio](http://inthecheesefactory.com/blog/how-to-upload-library-to-jcenter-maven-central-as-dependency/en) *[[中文版](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0623/3097.html)]* -- 如何使用Android Studio把自己的Android library分享到jCenter和Maven Central
 * [IDEA Colors & Fonts](http://www.ideacolorthemes.org/) -- 丰富的AS主题
+* [Android Studio Tips & Tricks: Moving Around](http://www.developerphil.com/android-studio-tips-tricks-moving-around/) -- 掌握这些操作能节省很多时间
+* Android Studio Tips Of the Day
+	* [Android Studio Tips Of the Day - Roundup #1](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-1/)
+	* [Android Studio Tips Of the Day - Roundup #2](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-2/)
+	* [Android Studio Tips Of the Day - Roundup #3](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-3/)
+	* [Android Studio Tips Of the Day - Roundup #4](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-4/)
+	* [Android Studio Tips Of the Day - Roundup #5](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-5/)
+	* [Android Studio Tips Of the Day - Roundup #6](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-6/)
 
 ## 经验总结
 * [Android学习之路--stormzhang](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
