@@ -49,6 +49,9 @@ codekk | [http://www.codekk.com/open-source-project-analysis](http://www.codekk.
 * [How to Leak a Context: Handlers & Inner Classes](http://www.androiddesignpatterns.com/2013/01/inner-class-handler-memory-leak.html)
 * [Activitys, Threads, & Memory Leaks](http://www.androiddesignpatterns.com/2013/04/activitys-threads-memory-leaks.html)
 
+* [Android Performance Case Study](http://www.curious-creature.com/2012/12/01/android-performance-case-study/)
+* [Android Performance Case Study Follow-up](http://www.curious-creature.com/2015/03/25/android-performance-case-study-follow-up/)
+
 ## ListView/RecyclerView/GridView（Android开发重中之重）
 ### Cyril Mottier - ListView Tips & Tricks 
 * [ListView Tips & Tricks #1: Handling Emptiness](http://cyrilmottier.com/2011/06/20/listview-tips-tricks-1-handle-emptiness/)
@@ -73,6 +76,10 @@ codekk | [http://www.codekk.com/open-source-project-analysis](http://www.codekk.
 ### 上拉加载更多
 * [加载更多](http://cube-sdk.liaohuqiu.net/cn/load-more/)
 * [Endless Scrolling with AdapterViews](https://github.com/codepath/android_guides/wiki/Endless-Scrolling-with-AdapterViews)
+
+### Fast Scroller
+* [RecyclerView FastScroll – Part 1](https://blog.stylingandroid.com/recyclerview-fastscroll-part-1/)
+* [RecyclerView FastScroll – Part 2](https://blog.stylingandroid.com/recyclerview-fastscroll-part-2/)
 
 ### 其他
 * [6 ways to make your lists scroll faster than the wind](http://leftshift.io/6-ways-to-make-your-lists-scroll-faster-than-the-wind) 提升ListView滚动速度
@@ -101,7 +108,9 @@ library for Android
 * [Creating custom Android views – Part 2: How padding works and how to draw your own content](http://www.jayway.com/2012/07/03/creating-custom-android-views-part-2-how-padding-works-and-how-to-draw-your-own-content/)
 * [Creating custom Android views – Part 3: Animating your custom views, smoothly](http://www.jayway.com/2012/08/29/creating-custom-android-views-part-3-animating-your-custom-views-smoothly/)
 * [Creating custom Android views – Part 4: Measuring and how to force a view to be square](http://www.jayway.com/2012/12/12/creating-custom-android-views-part-4-measuring-and-how-to-force-a-view-to-be-square/)
-* [https://sriramramani.wordpress.com/2015/05/06/custom-viewgroups/](https://sriramramani.wordpress.com/2015/05/06/custom-viewgroups/)
+* [Custom ViewGroups](https://sriramramani.wordpress.com/2015/05/06/custom-viewgroups/)
+* [Using Custom Compound Views in Android](http://ryanharter.com/blog/2014/05/14/using-custom-compound-views-in-android/)
+* [Custom Drawables](http://ryanharter.com/blog/2015/04/03/custom-drawables/)
 
 ## ActionBar / ToolBar
 * [android：ToolBar详解（手把手教程）](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1118/2006.html)
@@ -198,6 +207,7 @@ library for Android
 * [Everybody Tests: Boom! Screenshot! ](http://www.everybodytests.com/2015/06/boom-screenshot-level-up-your-test.html)
 * [All in Together: Android Studio, Gradle and Robolectric](https://www.bignerdranch.com/blog/all-in-together-android-studio-gradle-and-robolectric/)
 * [Triumph! Android Studio 1.2 Sneaks In Full Testing Support](https://www.bignerdranch.com/blog/triumph-android-studio-1-2-sneaks-in-full-testing-support/)
+* [Parameterized testing with Robolectric](http://www.jayway.com/2015/03/19/parameterized-testing-with-robolectric/)
 
 ## 其他
 * [THINGS YOU MAY NOT KNOW: TOOLS ATTRIBUTES](http://www.randomlytyping.com/blog/2015/6/17/things-you-may-not-know-about-tools-attributes) -- XML: `tools`属性
