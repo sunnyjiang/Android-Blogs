@@ -244,6 +244,7 @@ library for Android
 * [ANNOTATION PROCESSING 101](http://hannesdorfmann.com/annotation-processing/annotationprocessing101/) -- Annotation 注解
 * [A Look At Android Support Annotations](http://anupcowkur.com/posts/a-look-at-android-support-annotations/)
 * [Parcelable vs Serializable](http://www.developerphil.com/parcelable-vs-serializable/)
+* [How to debug HTTP(S) traffic on Android](https://medium.com/@rotxed/how-to-debug-http-s-traffic-on-android-7fbe5d2a34)
 
 ## MVP
 * [MVP for Android: how to organize the presentation layer](http://antonioleiva.com/mvp-android/)
