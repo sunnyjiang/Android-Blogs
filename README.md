@@ -167,17 +167,6 @@ library for Android
 * [使用android.view.TouchDelegate扩大View的触摸点击区域](http://blog.csdn.net/tongcpp/article/details/23450975)
 * [Android EditText的使用及值得注意的地方](http://www.jianshu.com/p/1f05bb1fde3e)
 * *Android Tips Round-Up* [[PART 1](http://blog.danlew.net/2014/03/30/android-tips-round-up-part-1/)] [[PART 2](http://blog.danlew.net/2014/04/14/android-tips-round-up-part-2/)] [[PART 3](http://blog.danlew.net/2014/04/28/android-tips-round-up-part-3/)] [[PART 4](http://blog.danlew.net/2014/05/12/android-tips-round-up-part-4/)] [[PART 5](http://blog.danlew.net/2014/05/28/android-tips-round-up-part-5/)]
-* *Be a lazy but a productive android developer*
-	* [RoboGuice](http://www.technotalkative.com/lazy-productive-android-developer-1/)
-	* [Genymotion](http://www.technotalkative.com/lazy-productive-android-developer-2/)
-	* [JSON Parsing library](http://www.technotalkative.com/lazy-productive-android-developer-3/)
-	* [Card UI ](http://www.technotalkative.com/lazy-productive-android-developer-4/)
-	* [Image loading library](http://www.technotalkative.com/lazy-productive-android-developer-part-5-image-loading-library/)
-	* [Staggered GridView](http://www.technotalkative.com/lazy-productive-android-developer-part-6-staggered-gridview/)
-	* [Useful tools](http://www.technotalkative.com/lazy-android-part-7-useful-tools/)
-	* [Wireframe/Mockup design tools](http://www.technotalkative.com/lazy-part-8-wireframemockup-tools/?utm_source=feedly&utm_reader=feedly&utm_medium=rss&utm_campaign=lazy-part-8-wireframemockup-tools)
-	* [Reverse engineering android applications](http://www.technotalkative.com/part-9-reverse-engineering-android-applications/)
-	* [The Hitchhiker’s guide to Android Testing](http://www.technotalkative.com/part-10-the-hitchhikers-guide-to-android-testing/)
 * [Why You Should Use a GIT SHA in Your Crash Reporting](http://www.donnfelker.com/why-you-should-use-a-git-sha-in-your-crash-reporting/)
 * *Supporting multiple themes in your Android app* [[(Part 1)](http://www.hidroh.com/2015/02/16/support-multiple-themes-android-app/)] [[(Part 2)](http://www.hidroh.com/2015/02/25/support-multiple-themes-android-app-part-2/)]
 * [A useful stack on android #1, architecture](http://saulmm.github.io/2015/02/02/A%20useful%20stack%20on%20android%20%231,%20architecture/)
@@ -254,6 +243,7 @@ library for Android
 * [Triumph! Android Studio 1.2 Sneaks In Full Testing Support](https://www.bignerdranch.com/blog/triumph-android-studio-1-2-sneaks-in-full-testing-support/)
 * [Parameterized testing with Robolectric](http://www.jayway.com/2015/03/19/parameterized-testing-with-robolectric/)
 * [Android Tools Project Site -- Unit testing support](https://sites.google.com/a/android.com/tools/tech-docs/unit-testing-support)
+* [Reliable API testing for Android with Retrofit and Mockito](http://www.mdswanson.com/blog/2013/12/16/reliable-android-http-testing-with-retrofit-and-mockito.html)
 
 ## Thread/Process
 * [A journey on the Android Main Thread - PSVM](https://corner.squareup.com/2013/10/android-main-thread-1.html)
@@ -293,12 +283,24 @@ library for Android
 	* [Android Studio Tips Of the Day - Roundup #4](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-4/)
 	* [Android Studio Tips Of the Day - Roundup #5](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-5/)
 	* [Android Studio Tips Of the Day - Roundup #6](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-6/)
+* [The Top 8 Plugins for Android Studio](http://www.sitepoint.com/top-8-plugins-android-studio/)
 
 ## 经验总结
 * [Android学习之路--stormzhang](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
 * [Top 10 Most Common Android Development Mistakes: A Programming Tutorial](http://www.toptal.com/android/top-10-most-common-android-development-mistakes)
-* [Android开源库](http://blog.daimajia.com/android-library-collection/)
+* [Android开源库 -- 代码家](http://blog.daimajia.com/android-library-collection/)
 * [How to improve quality and syntax of your Android code](http://vincentbrison.com/2014/07/19/how-to-improve-quality-and-syntax-of-your-android-code/)
+* *Be a lazy but a productive android developer*
+	* [RoboGuice](http://www.technotalkative.com/lazy-productive-android-developer-1/)
+	* [Genymotion](http://www.technotalkative.com/lazy-productive-android-developer-2/)
+	* [JSON Parsing library](http://www.technotalkative.com/lazy-productive-android-developer-3/)
+	* [Card UI ](http://www.technotalkative.com/lazy-productive-android-developer-4/)
+	* [Image loading library](http://www.technotalkative.com/lazy-productive-android-developer-part-5-image-loading-library/)
+	* [Staggered GridView](http://www.technotalkative.com/lazy-productive-android-developer-part-6-staggered-gridview/)
+	* [Useful tools](http://www.technotalkative.com/lazy-android-part-7-useful-tools/)
+	* [Wireframe/Mockup design tools](http://www.technotalkative.com/lazy-part-8-wireframemockup-tools/?utm_source=feedly&utm_reader=feedly&utm_medium=rss&utm_campaign=lazy-part-8-wireframemockup-tools)
+	* [Reverse engineering android applications](http://www.technotalkative.com/part-9-reverse-engineering-android-applications/)
+	* [The Hitchhiker’s guide to Android Testing](http://www.technotalkative.com/part-10-the-hitchhikers-guide-to-android-testing/)
 
 ## StackOverflow
 * [ListView如何设置EmptyView?](http://stackoverflow.com/a/17807347)
