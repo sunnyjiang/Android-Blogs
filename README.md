@@ -257,6 +257,7 @@ library for Android
 * [A Look At Android Support Annotations](http://anupcowkur.com/posts/a-look-at-android-support-annotations/)
 * [Parcelable vs Serializable](http://www.developerphil.com/parcelable-vs-serializable/)
 * [How to debug HTTP(S) traffic on Android](https://medium.com/@rotxed/how-to-debug-http-s-traffic-on-android-7fbe5d2a34)
+* [Android: Requesting root access in your app](http://www.stealthcopter.com/blog/2010/01/android-requesting-root-access-in-your-app/)
 
 ## MVP
 * [MVP for Android: how to organize the presentation layer](http://antonioleiva.com/mvp-android/)
