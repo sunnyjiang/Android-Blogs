@@ -16,7 +16,7 @@ Big Nerd Ranch | [https://www.bignerdranch.com/blog/categories/android/](https:/
 Android Design Patterns | [http://www.androiddesignpatterns.com/](http://www.androiddesignpatterns.com/) | 
 Square | [https://corner.squareup.com/](https://corner.squareup.com/) | 良心企业
 FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/android/) | 良心企业
-Vogella | [vogella](http://blog.vogella.com/category/android/) | Android基础教程
+Vogella | [http://blog.vogella.com/category/android/](http://blog.vogella.com/category/android/) | Android基础教程
 codekk | [http://www.codekk.com/open-source-project-analysis](http://www.codekk.com/open-source-project-analysis) | Trinea发起的Android开源项目分析
 
 ## 国外开发者
@@ -25,9 +25,9 @@ codekk | [http://www.codekk.com/open-source-project-analysis](http://www.codekk.
 [Daniel Lew](https://github.com/dlew) | [http://blog.danlew.net/](http://blog.danlew.net/) | 有干货，也有很多有趣的文章
 The Cheese Factory | [http://inthecheesefactory.com/blog](http://inthecheesefactory.com/blog) | 2015年才开的博客，内容非常新
 TechnoTalkative | [http://www.technotalkative.com/](http://www.technotalkative.com/) | the lazy android developers 系列作者
-[Saúl Molinero](https://github.com/saulmm) | [http://saulmm.github.io/](http://saulmm.github.io/) | 
-Cyril Mottier | [http://cyrilmottier.com/](http://cyrilmottier.com/) | Quora上很推崇的一个开发者，但是现在写的不勤了
-Ravi Tamada | [Androidhive](http://www.androidhive.info/) | 博文非常基础，非常详细，适合初学者
+[Saúl Molinero](https://github.com/saulmm) | [http://saulmm.github.io/](http://saulmm.github.io/) | 个人非常喜欢的一个开发者博客
+Cyril Mottier | [http://cyrilmottier.com/](http://cyrilmottier.com/) | Quora上很推崇的一个开发者，但是现在博客写的不勤了
+Ravi Tamada | [http://www.androidhive.info/](http://www.androidhive.info/) | 博文非常基础，非常详细，适合初学者
 
 ## 国内开发者
 名称 | Blog地址 | 说明
