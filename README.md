@@ -223,6 +223,7 @@ library for Android
 * [Don't break the chain: use RxJava's compose() operator](http://blog.danlew.net/2015/03/02/dont-break-the-chain/)
 * [Replace AsyncTask and AsyncTaskLoader with rx.Observable – RxJava Android Patterns](http://stablekernel.com/blog/replace-asynctask-asynctaskloader-rx-observable-rxjava-android-patterns/)
 * [RxJava Observable tranformation: concatMap() vs flatMap()](http://fernandocejas.com/2015/01/11/rxjava-observable-tranformation-concatmap-vs-flatmap/)
+* [Learning RxJava (for Android) by example](https://www.youtube.com/watch?v=k3D0cWyNno4&feature=youtu.be) -- YouTube视频教程
 
 ### [Dagger](https://github.com/square/dagger)
 * [Dagger 源码解析](https://github.com/android-cn/android-open-project-analysis/tree/master/dagger)
