@@ -243,6 +243,10 @@ library for Android
 * [Parameterized testing with Robolectric](http://www.jayway.com/2015/03/19/parameterized-testing-with-robolectric/)
 * [Android Tools Project Site -- Unit testing support](https://sites.google.com/a/android.com/tools/tech-docs/unit-testing-support)
 
+## Thread/Process
+* [A journey on the Android Main Thread - PSVM](https://corner.squareup.com/2013/10/android-main-thread-1.html)
+* [A journey on the Android Main Thread - Lifecycle bits](https://corner.squareup.com/2013/12/android-main-thread-2.html)
+
 ## 其他
 * [THINGS YOU MAY NOT KNOW: TOOLS ATTRIBUTES](http://www.randomlytyping.com/blog/2015/6/17/things-you-may-not-know-about-tools-attributes) -- XML: `tools`属性
 * [Tools Attributes](http://tools.android.com/tech-docs/tools-attributes)
