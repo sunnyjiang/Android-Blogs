@@ -54,6 +54,12 @@ codekk | [http://www.codekk.com/open-source-project-analysis](http://www.codekk.
 * [Android Performance Case Study](http://www.curious-creature.com/2012/12/01/android-performance-case-study/)
 * [Android Performance Case Study Follow-up](http://www.curious-creature.com/2015/03/25/android-performance-case-study-follow-up/)
 
+## Services
+* [Services](http://developer.android.com/guide/components/services.html)
+* [Bound Services](http://developer.android.com/guide/components/bound-services.html)
+* [Android Interface Definition Language (AIDL)](http://developer.android.com/guide/components/aidl.html)
+* [Starting Background Services](https://github.com/codepath/android_guides/wiki/Starting-Background-Services)
+
 ## ListView/RecyclerView/GridView（Android开发重中之重）
 ### Cyril Mottier - ListView Tips & Tricks 
 * [ListView Tips & Tricks #1: Handling Emptiness](http://cyrilmottier.com/2011/06/20/listview-tips-tricks-1-handle-emptiness/)
