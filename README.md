@@ -1,7 +1,7 @@
 # Android-Blogs
 Android开发相关的博客、文章、教程
-## Blog
-博主 | Blog地址 | 说明
+## 官方Blog
+名称 | Blog地址 | 说明
 --- | --- | ---
 Android Developers Blog | [http://android-developers.blogspot.com/](http://android-developers.blogspot.com/) | 官方Blog
 Android Weekly | [http://androidweekly.net/](http://androidweekly.net/) | Android周刊，支持邮箱订阅，随时了解Android Dev最新前沿，每周一更新
@@ -11,21 +11,30 @@ Android Weekly 中文版 | [http://androidweekly.cn/](http://androidweekly.cn/) 
 [Styling Android](https://blog.stylingandroid.com/) | [https://blog.stylingandroid.com/](https://blog.stylingandroid.com/) | 专注Android Design实现
 Big Nerd Ranch | [https://www.bignerdranch.com/blog/categories/android/](https://www.bignerdranch.com/blog/categories/android/) | 他们所写的培训教程非常有名
 Android Design Patterns | [http://www.androiddesignpatterns.com/](http://www.androiddesignpatterns.com/) | 
-The Cheese Factory | [http://inthecheesefactory.com/blog](http://inthecheesefactory.com/blog) | 2015年才开的博客，内容非常新
 Square | [https://corner.squareup.com/](https://corner.squareup.com/) | 良心企业
 FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/android/) | 良心企业
 Vogella | [vogella](http://blog.vogella.com/category/android/) | Android基础教程
-[Saúl Molinero](https://github.com/saulmm) | [http://saulmm.github.io/](http://saulmm.github.io/) | 
-Cyril Mottier | [http://cyrilmottier.com/](http://cyrilmottier.com/) | 
-TechnoTalkative | [http://www.technotalkative.com/](http://www.technotalkative.com/) | the lazy android developers 系列作者
-Ravi Tamada | [Androidhive](http://www.androidhive.info/) | 博文非常基础，非常详细，适合初学者
-[liaohuqiu](https://github.com/liaohuqiu) | [http://www.liaohuqiu.net/cn/](http://www.liaohuqiu.net/cn/) |
-[Trinea](https://github.com/Trinea/) | [http://www.trinea.cn/category/android/](http://www.trinea.cn/category/android/) | 
 codekk | [http://www.codekk.com/open-source-project-analysis](http://www.codekk.com/open-source-project-analysis) | Trinea发起的Android开源项目分析
-[stormzhang](https://github.com/stormzhang) | [http://stormzhang.com/](http://stormzhang.com/) |
-[Daniel Lew](https://github.com/dlew) | [http://blog.danlew.net/](http://blog.danlew.net/) | 
-[代码家](https://github.com/daimajia) | [http://blog.daimajia.com/](http://blog.daimajia.com/) |
+
+## 国外开发者
+名称 | Blog地址 | 说明
+--- | --- | ---
+[Daniel Lew](https://github.com/dlew) | [http://blog.danlew.net/](http://blog.danlew.net/) | 有干货，也有很多有趣的文章
+The Cheese Factory | [http://inthecheesefactory.com/blog](http://inthecheesefactory.com/blog) | 2015年才开的博客，内容非常新
+TechnoTalkative | [http://www.technotalkative.com/](http://www.technotalkative.com/) | the lazy android developers 系列作者
+[Saúl Molinero](https://github.com/saulmm) | [http://saulmm.github.io/](http://saulmm.github.io/) | 
+Cyril Mottier | [http://cyrilmottier.com/](http://cyrilmottier.com/) | Quora上很推崇的一个开发者，但是现在写的不勤了
+Ravi Tamada | [Androidhive](http://www.androidhive.info/) | 博文非常基础，非常详细，适合初学者
+
+## 国内开发者
+名称 | Blog地址 | 说明
+--- | --- | ---
+[Trinea](https://github.com/Trinea/) | [http://www.trinea.cn/category/android/](http://www.trinea.cn/category/android/) | Trinea大神
+[liaohuqiu](https://github.com/liaohuqiu) | [http://www.liaohuqiu.net/cn/](http://www.liaohuqiu.net/cn/) | [android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)作者
+[代码家](https://github.com/daimajia) | [http://blog.daimajia.com/](http://blog.daimajia.com/) | [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout)、[AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)、[NumberProgressBar](https://github.com/daimajia/NumberProgressBar)...撸库大神，不过好像不太喜欢写技术博客...
+[stormzhang](https://github.com/stormzhang) | [http://stormzhang.com/](http://stormzhang.com/) | 经常混迹知乎、GitHub
 郭林 | [郭林的专栏](http://blog.csdn.net/guolin_blog) | CSDN 博客之星, 《第一行代码》作者
+*注：有什么描述不当的地方，请及时指出，我会及时修改*
 
 ## 性能优化
 ### Developing for Android
