@@ -288,5 +288,6 @@ library for Android
 * [How to improve quality and syntax of your Android code](http://vincentbrison.com/2014/07/19/how-to-improve-quality-and-syntax-of-your-android-code/)
 
 ## StackOverflow
-* [ListView 设置EmptyView](http://stackoverflow.com/a/17807347)
+* [ListView如何设置EmptyView?](http://stackoverflow.com/a/17807347)
+* [如何导入IPackageStatsObserver?](http://stackoverflow.com/a/30278018)
 
