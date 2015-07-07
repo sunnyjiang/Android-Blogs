@@ -307,4 +307,5 @@ library for Android
 ## StackOverflow
 * [ListView如何设置EmptyView?](http://stackoverflow.com/a/17807347)
 * [如何导入IPackageStatsObserver?](http://stackoverflow.com/a/30278018)
+* [如何使用非Activity子类的Context对象启动Activity?](http://stackoverflow.com/a/3918838)
 
