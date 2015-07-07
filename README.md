@@ -65,6 +65,7 @@ Ravi Tamada | [http://www.androidhive.info/](http://www.androidhive.info/) | 博
 
 * [Android Performance Case Study](http://www.curious-creature.com/2012/12/01/android-performance-case-study/)
 * [Android Performance Case Study Follow-up](http://www.curious-creature.com/2015/03/25/android-performance-case-study-follow-up/)
+* [Avoiding memory leaks](http://android-developers.blogspot.jp/2009/01/avoiding-memory-leaks.html)
 
 ## Services
 * [Services](http://developer.android.com/guide/components/services.html)
