@@ -13,7 +13,6 @@ Android Weekly 中文版 | [http://androidweekly.cn/](http://androidweekly.cn/) 
 [Android开发技术前线](https://github.com/bboyfeiyu/android-tech-frontier) | [http://www.devtf.cn/](http://www.devtf.cn/) | 一个定期翻译、发布国内外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目
 [Styling Android](https://blog.stylingandroid.com/) | [https://blog.stylingandroid.com/](https://blog.stylingandroid.com/) | 专注Android Design实现
 Big Nerd Ranch | [https://www.bignerdranch.com/blog/categories/android/](https://www.bignerdranch.com/blog/categories/android/) | 他们所写的培训教程非常有名
-Android Design Patterns | [http://www.androiddesignpatterns.com/](http://www.androiddesignpatterns.com/) | 
 Square | [https://corner.squareup.com/](https://corner.squareup.com/) | 良心企业
 FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/android/) | 良心企业
 Vogella | [http://blog.vogella.com/category/android/](http://blog.vogella.com/category/android/) | Android基础教程
@@ -28,6 +27,7 @@ TechnoTalkative | [http://www.technotalkative.com/](http://www.technotalkative.c
 [Saúl Molinero](https://github.com/saulmm) | [http://saulmm.github.io/](http://saulmm.github.io/) | 个人非常喜欢的一个开发者博客
 Cyril Mottier | [http://cyrilmottier.com/](http://cyrilmottier.com/) | Quora上很推崇的一个开发者，但是现在博客写的不勤了
 Ravi Tamada | [http://www.androidhive.info/](http://www.androidhive.info/) | 博文非常基础，非常详细，适合初学者
+[Alex Lockwood](https://github.com/alexjlockwood) |[http://www.androiddesignpatterns.com/](http://www.androiddesignpatterns.com/) | 
 
 ## 国内开发者
 名称 | Blog地址 | 说明
