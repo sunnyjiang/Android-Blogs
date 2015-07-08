@@ -203,7 +203,10 @@ library for Android
 * [Why you should avoid using an event bus](http://endlesswhileloop.com/blog/2015/06/11/stop-using-event-buses/)
 
 ### [ButterKnife](https://github.com/JakeWharton/butterknife)
+* [ButterKnife官方文档](http://jakewharton.github.io/butterknife/)
 * [ButterKnife--View注入框架](http://stormzhang.com/openandroid/android/2014/01/12/android-butterknife/)
+* [5 Reasons You Should Use Butterknife For Android
+](http://www.thekeyconsultant.com/2013/09/5-reasons-you-should-use-butterknife.html)
 
 ### [LeakCanary](https://github.com/square/leakcanary)
 * [LeakCanary 中文使用说明](http://www.liaohuqiu.net/cn/posts/leak-canary-read-me/)
