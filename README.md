@@ -17,6 +17,7 @@ Square | [https://corner.squareup.com/](https://corner.squareup.com/) | 良心�
 FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/android/) | 良心企业
 Vogella | [http://blog.vogella.com/category/android/](http://blog.vogella.com/category/android/) | Android基础教程
 codekk | [http://www.codekk.com/open-source-project-analysis](http://www.codekk.com/open-source-project-analysis) | Trinea发起的Android开源项目分析
+Yalantis | [https://yalantis.com](https://yalantis.com) | 他们实现了很多酷炫的动画(Android + iOS)
 
 ## 国外开发者
 名称 | Blog地址 | 说明
