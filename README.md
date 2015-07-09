@@ -68,11 +68,8 @@ Ravi Tamada | [http://www.androidhive.info/](http://www.androidhive.info/) | 博
 * [Android Performance Case Study Follow-up](http://www.curious-creature.com/2015/03/25/android-performance-case-study-follow-up/)
 * [Avoiding memory leaks](http://android-developers.blogspot.jp/2009/01/avoiding-memory-leaks.html)
 
-## Services
-* [Services](http://developer.android.com/guide/components/services.html)
-* [Bound Services](http://developer.android.com/guide/components/bound-services.html)
-* [Android Interface Definition Language (AIDL)](http://developer.android.com/guide/components/aidl.html)
-* [Starting Background Services](https://github.com/codepath/android_guides/wiki/Starting-Background-Services)
+### 其他
+* [Android DiskLruCache完全解析，硬盘缓存的最佳方案](http://blog.csdn.net/guolin_blog/article/details/28863651)
 
 ## ListView/RecyclerView/GridView（Android开发重中之重）
 ### Cyril Mottier - ListView Tips & Tricks 
@@ -155,6 +152,12 @@ library for Android
 * [Probably be the best way (?) to save/restore Android Fragment’s state so far](http://inthecheesefactory.com/blog/best-approach-to-keep-android-fragment-state/en) *注：作者认为该方法存在很多问题，建议阅读下篇博文*
 * [The Real Best Practices to Save/Restore Activity's and Fragment's state. (StatedFragment is now deprecated)](http://inthecheesefactory.com/blog/fragment-state-saving-best-practices/en)
 * [How to make onActivityResult get called on Nested Fragment](http://inthecheesefactory.com/blog/how-to-fix-nested-fragment-onactivityresult-issue/en)
+
+## Services
+* [Services](http://developer.android.com/guide/components/services.html)
+* [Bound Services](http://developer.android.com/guide/components/bound-services.html)
+* [Android Interface Definition Language (AIDL)](http://developer.android.com/guide/components/aidl.html)
+* [Starting Background Services](https://github.com/codepath/android_guides/wiki/Starting-Background-Services)
 
 ## Context Provider
 * [Android Tutorial: Content Provider Basics](http://www.grokkingandroid.com/android-tutorial-content-provider-basics/)
