@@ -34,7 +34,7 @@ Ravi Tamada | [http://www.androidhive.info/](http://www.androidhive.info/) | 博
 --- | --- | ---
 [Trinea](https://github.com/Trinea/) | [http://www.trinea.cn/category/android/](http://www.trinea.cn/category/android/) | Trinea大神
 [liaohuqiu](https://github.com/liaohuqiu) | [http://www.liaohuqiu.net/cn/](http://www.liaohuqiu.net/cn/) | [android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)作者
-[代码家](https://github.com/daimajia) | [http://blog.daimajia.com/](http://blog.daimajia.com/) | [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout)、[AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)、[NumberProgressBar](https://github.com/daimajia/NumberProgressBar)...撸库大神，不过好像不太喜欢写技术博客...
+[代码家](https://github.com/daimajia) | [http://blog.daimajia.com/](http://blog.daimajia.com/) | AndroidSwipeLayout、AndroidViewAnimations、NumberProgressBar等开源库作者，撸库大神，不过好像不太喜欢写技术博客...
 [stormzhang](https://github.com/stormzhang) | [http://stormzhang.com/](http://stormzhang.com/) | 经常混迹知乎、GitHub
 郭林 | [郭林的专栏](http://blog.csdn.net/guolin_blog) | CSDN 博客之星, 《第一行代码》作者
 *注：有什么描述不当的地方，请及时指出，我会及时修改*
@@ -153,6 +153,11 @@ library for Android
 * [Probably be the best way (?) to save/restore Android Fragment’s state so far](http://inthecheesefactory.com/blog/best-approach-to-keep-android-fragment-state/en) *注：作者认为该方法存在很多问题，建议阅读下篇博文*
 * [The Real Best Practices to Save/Restore Activity's and Fragment's state. (StatedFragment is now deprecated)](http://inthecheesefactory.com/blog/fragment-state-saving-best-practices/en)
 * [How to make onActivityResult get called on Nested Fragment](http://inthecheesefactory.com/blog/how-to-fix-nested-fragment-onactivityresult-issue/en)
+
+## Context Provider
+* [Android Tutorial: Content Provider Basics](http://www.grokkingandroid.com/android-tutorial-content-provider-basics/)
+* [Android Tutorial: Using Content Providers](http://www.grokkingandroid.com/android-tutorial-using-content-providers/)
+* [Android Tutorial: Writing your own Content Provider](http://www.grokkingandroid.com/android-tutorial-writing-your-own-content-provider/)
 
 ## Notification
 * [Notifications](https://guides.codepath.com/android/Notifications)
