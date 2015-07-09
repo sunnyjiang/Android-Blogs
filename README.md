@@ -17,7 +17,7 @@ Square | [https://corner.squareup.com/](https://corner.squareup.com/) | 良心�
 FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/android/) | 良心企业
 Vogella | [http://blog.vogella.com/category/android/](http://blog.vogella.com/category/android/) | Android基础教程
 codekk | [http://www.codekk.com/open-source-project-analysis](http://www.codekk.com/open-source-project-analysis) | Trinea发起的Android开源项目分析
-Yalantis | [https://yalantis.com](https://yalantis.com) | 他们实现了很多酷炫的动画(Android + iOS)
+Yalantis | [https://yalantis.com](https://yalantis.com) | 介绍很多酷炫动画的实现原理(Android + iOS)
 
 ## 国外开发者
 名称 | Blog地址 | 说明
@@ -318,4 +318,5 @@ library for Android
 * [ListView如何设置EmptyView?](http://stackoverflow.com/a/17807347)
 * [如何导入IPackageStatsObserver?](http://stackoverflow.com/a/30278018)
 * [如何使用非Activity子类的Context对象启动Activity?](http://stackoverflow.com/a/3918838)
+* [磁盘缓存](http://stackoverflow.com/a/10235381/4470672)
 
