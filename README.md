@@ -319,9 +319,14 @@ library for Android
 	* [Reverse engineering android applications](http://www.technotalkative.com/part-9-reverse-engineering-android-applications/)
 	* [The Hitchhiker’s guide to Android Testing](http://www.technotalkative.com/part-10-the-hitchhikers-guide-to-android-testing/)
 
-## StackOverflow
-* [ListView如何设置EmptyView?](http://stackoverflow.com/a/17807347)
-* [如何导入IPackageStatsObserver?](http://stackoverflow.com/a/30278018)
-* [如何使用非Activity子类的Context对象启动Activity?](http://stackoverflow.com/a/3918838)
-* [磁盘缓存](http://stackoverflow.com/a/10235381/4470672)
+## [StackOverflow](http://stackoverflow.com/questions/tagged/android)
+* [Difference between px, dp, dip and sp in Android?](http://stackoverflow.com/a/2025541/4470672)
+* [Close/hide the Android Soft Keyboard](http://stackoverflow.com/a/1109108/4470672)
+* [Saving Activity state in Android](http://stackoverflow.com/questions/151777/saving-activity-state-in-android)
+* [Get screen dimensions in pixels](http://stackoverflow.com/a/1016941/4470672)
+* [Android - basic gesture detection](http://stackoverflow.com/questions/937313/android-basic-gesture-detection) *[[Best Answer](http://stackoverflow.com/a/938657/4470672)]*
+* [setEmptyView on ListView not showing its view in a android app](http://stackoverflow.com/a/17807347)
+* [IPackageStatsObserver cannot be resolved to a type (Android)](http://stackoverflow.com/a/30278018)
+* [Calling startActivity() from outside of an Activity context](http://stackoverflow.com/a/3918838)
+* [Using DiskLruCache in android 4.0 does not provide for openCache method](http://stackoverflow.com/a/10235381/4470672)
 
