@@ -37,7 +37,7 @@ Ravi Tamada | [http://www.androidhive.info/](http://www.androidhive.info/) | 博
 [liaohuqiu](https://github.com/liaohuqiu) | [http://www.liaohuqiu.net/cn/](http://www.liaohuqiu.net/cn/) | [android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)作者
 [代码家](https://github.com/daimajia) | [http://blog.daimajia.com/](http://blog.daimajia.com/) | AndroidSwipeLayout、AndroidViewAnimations、NumberProgressBar等开源库作者，撸库大神，不过好像不太喜欢写技术博客...
 [stormzhang](https://github.com/stormzhang) | [http://stormzhang.com/](http://stormzhang.com/) | 经常混迹知乎、GitHub
-郭林 | [郭林的专栏](http://blog.csdn.net/guolin_blog) | CSDN 博客之星, 《第一行代码》作者
+郭霖 | [郭霖的专栏](http://blog.csdn.net/guolin_blog) | CSDN 博客之星, 《第一行代码》作者
 *注：有什么描述不当的地方，请及时指出，我会及时修改*
 
 ## 性能优化
@@ -68,8 +68,10 @@ Ravi Tamada | [http://www.androidhive.info/](http://www.androidhive.info/) | 博
 * [Android Performance Case Study Follow-up](http://www.curious-creature.com/2015/03/25/android-performance-case-study-follow-up/)
 * [Avoiding memory leaks](http://android-developers.blogspot.jp/2009/01/avoiding-memory-leaks.html)
 
-### 其他
+### 缓存
+* [Displaying Bitmaps Efficiently](http://developer.android.com/training/displaying-bitmaps/index.html) *[[中文版--郭霖译](http://blog.csdn.net/guolin_blog/article/details/9316683)]*
 * [Android DiskLruCache完全解析，硬盘缓存的最佳方案](http://blog.csdn.net/guolin_blog/article/details/28863651)
+* [Android照片墙完整版，完美结合LruCache和DiskLruCache](http://blog.csdn.net/guolin_blog/article/details/34093441)
 
 ## ListView/RecyclerView/GridView（Android开发重中之重）
 ### Cyril Mottier - ListView Tips & Tricks 
