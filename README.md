@@ -319,6 +319,7 @@ library for Android
 	* [Wireframe/Mockup design tools](http://www.technotalkative.com/lazy-part-8-wireframemockup-tools/?utm_source=feedly&utm_reader=feedly&utm_medium=rss&utm_campaign=lazy-part-8-wireframemockup-tools)
 	* [Reverse engineering android applications](http://www.technotalkative.com/part-9-reverse-engineering-android-applications/)
 	* [The Hitchhiker’s guide to Android Testing](http://www.technotalkative.com/part-10-the-hitchhikers-guide-to-android-testing/)
+* [6 THINGS I WISH I KNEW BEFORE I WROTE MY FIRST ANDROID APP](http://www.philosophicalhacker.com/2015/07/09/6-things-i-wish-i-knew-before-i-wrote-my-first-android-app/)
 
 ## [StackOverflow](http://stackoverflow.com/questions/tagged/android)
 * [Difference between px, dp, dip and sp in Android?](http://stackoverflow.com/a/2025541/4470672)
