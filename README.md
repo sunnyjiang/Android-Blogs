@@ -1,8 +1,6 @@
 # Android-Blogs
 Android开发相关的博客、文章、教程
 
-*注：有什么值得推荐的Blog、站点也可以PR或者Issue给我，我会及时更新*
-
 ## 官方Blog
 名称 | Blog地址 | 说明
 --- | --- | ---
@@ -38,7 +36,6 @@ Ravi Tamada | [http://www.androidhive.info/](http://www.androidhive.info/) | 博
 [代码家](https://github.com/daimajia) | [http://blog.daimajia.com/](http://blog.daimajia.com/) | AndroidSwipeLayout、AndroidViewAnimations、NumberProgressBar等开源库作者，撸库大神，不过好像不太喜欢写技术博客...
 [stormzhang](https://github.com/stormzhang) | [http://stormzhang.com/](http://stormzhang.com/) | 经常混迹知乎、GitHub
 郭霖 | [郭霖的专栏](http://blog.csdn.net/guolin_blog) | CSDN 博客之星, 《第一行代码》作者
-*注：有什么描述不当的地方，请及时指出，我会及时修改*
 
 ## 性能优化
 ### Developing for Android
@@ -72,6 +69,7 @@ Ravi Tamada | [http://www.androidhive.info/](http://www.androidhive.info/) | 博
 * [Displaying Bitmaps Efficiently](http://developer.android.com/training/displaying-bitmaps/index.html) *[[中文版--郭霖译](http://blog.csdn.net/guolin_blog/article/details/9316683)]*
 * [Android DiskLruCache完全解析，硬盘缓存的最佳方案](http://blog.csdn.net/guolin_blog/article/details/28863651)
 * [Android照片墙完整版，完美结合LruCache和DiskLruCache](http://blog.csdn.net/guolin_blog/article/details/34093441)
+* [Android应用性能优化之使用SparseArray替代HashMap](http://liuzhichao.com/p/832.html)
 
 ## ListView/RecyclerView/GridView（Android开发重中之重）
 ### Cyril Mottier - ListView Tips & Tricks 
