@@ -71,9 +71,8 @@ Ravi Tamada | [http://www.androidhive.info/](http://www.androidhive.info/) | 博
 * [Android照片墙完整版，完美结合LruCache和DiskLruCache](http://blog.csdn.net/guolin_blog/article/details/34093441)
 * [Android应用性能优化之使用SparseArray替代HashMap](http://liuzhichao.com/p/832.html)
 
-### Thread/Process
-* [Android: Looper, Handler, HandlerThread. Part I.](http://blog.nikitaog.me/2014/10/11/android-looper-handler-handlerthread-i/)
-* [Android: Looper, Handler, HandlerThread. Part II.](http://blog.nikitaog.me/2014/10/18/android-looper-handler-handlerthread-ii/)
+### 其他
+* [Performance Tips](http://developer.android.com/training/articles/perf-tips.html)
 
 ## ListView/RecyclerView/GridView（Android开发重中之重）
 ### Cyril Mottier - ListView Tips & Tricks 
