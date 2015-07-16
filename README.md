@@ -143,6 +143,7 @@ library for Android
 * [Using Custom Compound Views in Android](http://ryanharter.com/blog/2014/05/14/using-custom-compound-views-in-android/)
 * [Custom Drawables](http://ryanharter.com/blog/2015/04/03/custom-drawables/)
 * [How We Developed the Guillotine Menu Animation for Android](https://yalantis.com/blog/how-we-developed-the-guillotine-menu-animation-for-android/) -- 如何实现铡刀菜单动画?
+* [Android Canvas drawText实现中文垂直居中](http://blog.csdn.net/hursing/article/details/18703599)
 
 ## ActionBar / ToolBar
 * [android：ToolBar详解（手把手教程）](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1118/2006.html)
